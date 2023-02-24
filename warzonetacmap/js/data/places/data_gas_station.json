@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "6175.559",
+            "lng": "4069.524"
+        },
+        "sector": "F2",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "4858.531",
+            "lng": "5359.162"
+        },
+        "sector": "G3",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "4463.327",
+            "lng": "4685.072"
+        },
+        "sector": "F4",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "4014.863",
+            "lng": "5992.821"
+        },
+        "sector": "H4",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "2825.731",
+            "lng": "5371.729"
+        },
+        "sector": "G6",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "2830.401",
+            "lng": "4978.748"
+        },
+        "sector": "G6",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "1601.163",
+            "lng": "4993.794"
+        },
+        "sector": "G7",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "2129.078",
+            "lng": "4146.692"
+        },
+        "sector": "F7",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "2427.822",
+            "lng": "3679.503"
+        },
+        "sector": "E6",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "2427.822",
+            "lng": "3679.503"
+        },
+        "sector": "E6",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "2386.304",
+            "lng": "3258.727"
+        },
+        "sector": "E6",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "2551.357",
+            "lng": "3141.904"
+        },
+        "sector": "D6",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "1552.214",
+            "lng": "2735.666"
+        },
+        "sector": "D8",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "2488.741",
+            "lng": "2402.643"
+        },
+        "sector": "D6",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "2681.245",
+            "lng": "2283.241"
+        },
+        "sector": "C6",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "3219.072",
+            "lng": "2772.142"
+        },
+        "sector": "D5",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "4008.466",
+            "lng": "1728.473"
+        },
+        "sector": "C4",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "5243.444",
+            "lng": "2362.566"
+        },
+        "sector": "C3",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "6340.273",
+            "lng": "3605.184"
+        },
+        "sector": "E2",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "5394.000",
+            "lng": "4122.000"
+        },
+        "sector": "F3",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "4725.818",
+            "lng": "3624.028"
+        },
+        "sector": "E4",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "4225.064",
+            "lng": "3573.887"
+        },
+        "sector": "E4",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "4291.381",
+            "lng": "4478.405"
+        },
+        "sector": "F4",
+        "description": null,
+        "icon": "icon_gas_station"
+    },
+    {
+        "name": "Gas Station",
+        "location" : {
+            "lat": "4224.395",
+            "lng": "3573.829"
+        },
+        "sector": "E4",
+        "description": null,
+        "icon": "icon_gas_station"
+    }
+]

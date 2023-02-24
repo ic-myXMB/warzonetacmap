@@ -1,0 +1,160 @@
+[
+	{
+		"title": "Rohan Oil",
+		"lat": 5299,
+		"lng": 2912,
+		"labelType": "main"
+	},
+	{
+		"title": "Taraq Village",
+		"lat": 6084,
+		"lng": 3608,
+		"labelType": "main"
+	},
+	{
+		"title": "AL Mazrah City",
+		"lat": 5184,
+		"lng": 4744,
+		"labelType": "main"
+	},
+	{
+		"title": "Mawizeh Marshlands",
+		"lat": 4176,
+		"lng": 4789,
+		"labelType": "main"
+	},
+	{
+		"title": "Al Sharim Pass",
+		"lat": 3282,
+		"lng": 4994,
+		"labelType": "main"
+	},
+	{
+		"title": "Zaya Observatory",
+		"lat": 3186,
+		"lng": 3856,
+		"labelType": "main"
+	},
+	{
+		"title": "Ahkdar Village",
+		"lat": 2724,
+		"lng": 4454,
+		"labelType": "main"
+	},
+	{
+		"title": "Al Malik Airport",
+		"lat": 2336,
+		"lng": 5474,
+		"labelType": "main"
+	},
+	{
+		"title": "Al Bagra Fortress",
+		"lat": 1370,
+		"lng": 4892,
+		"labelType": "main"
+	},
+	{
+		"title": "Sarif Bay",
+		"lat": 2062,
+		"lng": 3970,
+		"labelType": "main"
+	},
+	{
+		"title": "Al Samman Cemetery",
+		"lat": 2166,
+		"lng": 3006,
+		"labelType": "main"
+	},
+	{
+		"title": "Sawah Village",
+		"lat": 1622,
+		"lng": 2550,
+		"labelType": "main"
+	},
+	{
+		"title": "Sa'id City",
+		"lat": 2954,
+		"lng": 2488,
+		"labelType": "main"
+	},
+	{
+		"title": "Halid Port",
+		"lat": 3136,
+		"lng": 1720,
+		"labelType": "main"
+	},
+	{
+		"title": "Sattiq Cave Complex",
+		"lat": 3926,
+		"lng": 2684,
+		"labelType": "main"
+	},
+	{
+		"title": "Al-Safwa Quarry",
+		"lat": 4618,
+		"lng": 1570,
+		"labelType": "main"
+	},
+	{
+		"title": "Oasis",
+		"lat": 6468,
+		"lng": 2820,
+		"labelType": "second"
+	},
+	{
+		"title": "Western Foothills",
+		"lat": 5043.159,
+		"lng": 2029.403,
+		"labelType": "second"
+	},
+	{
+		"title": "North Industrial",
+		"lat": 6072.961,
+		"lng":4331.860,
+		"labelType": "second"
+	},
+	{
+		"title": "Western Outskirts",
+		"lat": 5221.562,
+		"lng":3769.484,
+		"labelType": "second"
+	},
+	{
+		"title": "Eastern Outskirts",
+		"lat": 5299.912,
+		"lng":5317.323,
+		"labelType": "second"
+	},
+	{
+		"title": "Southern Outskirts",
+		"lat": 4640.035,
+		"lng":4624.365,
+		"labelType": "second"
+	},
+	{
+		"title": "East Suburbs",
+		"lat": 3806.047,
+		"lng":5977.200,
+		"labelType": "second"
+	},
+	{
+		"title": "Northwest Mountain",
+		"lat": 3612.813,
+		"lng":3433.360,
+		"labelType": "second"
+	},
+	{
+		"title": "Northwest Mountain",
+		"lat": 3612.813,
+		"lng":3433.360,
+		"labelType": "second"
+	},
+	{
+		"title": "Zarqwa Hydroelectric",
+		"lat": 4468,
+		"lng":3604,
+		"labelType": "main"
+	}
+]
+
+

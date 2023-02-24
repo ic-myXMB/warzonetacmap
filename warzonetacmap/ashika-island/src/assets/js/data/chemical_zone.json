@@ -1,0 +1,52 @@
+[
+    {
+		"name": "Radiation Zone",
+		"lat": 2209.422,
+		"lng": 3670.552,
+		"description": "Possible location of the radiation zone, in which you can meet the Chemist. The reward for killing the chemist is M13B.",
+		"icon": "icon_radiation_zone",
+		"radius": 175,
+		"styles": {
+			"fillColor": "#C8CB41",
+			"color": "#C8CB41",
+			"weight": 2
+		}
+	},
+    {
+		"name": "Radiation Zone",
+		"lat": 4706.665,
+		"lng": 2848.868,
+		"description": "Possible location of the radiation zone, in which you can meet the Chemist. The reward for killing the chemist is M13B.",
+		"icon": "icon_radiation_zone",
+		"radius": 175,
+		"styles": {
+			"fillColor": "#C8CB41",
+			"color": "#C8CB41",
+			"weight": 2
+		}
+	},
+    {
+		"name": "Radiation Zone",
+		"lat": "3147.478", "lng":"5969.243",
+		"description": "Possible location of the radiation zone, in which you can meet the Chemist. The reward for killing the chemist is M13B.",
+		"icon": "icon_radiation_zone",
+		"radius": 175,
+		"styles": {
+			"fillColor": "#C8CB41",
+			"color": "#C8CB41",
+			"weight": 2
+		}
+	},
+    {
+		"name": "Radiation Zone",
+		"lat": "4673.700", "lng":"5752.371",
+		"description": "Possible location of the radiation zone, in which you can meet the Chemist. The reward for killing the chemist is M13B.",
+		"icon": "icon_radiation_zone",
+		"radius": 175,
+		"styles": {
+			"fillColor": "#C8CB41",
+			"color": "#C8CB41",
+			"weight": 2
+		}
+	}
+]

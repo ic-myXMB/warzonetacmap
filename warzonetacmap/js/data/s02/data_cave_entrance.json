@@ -1,0 +1,38 @@
+[
+    {
+		"name": "Cave Entrance",
+        "sector": null,
+		"location": {
+            "lat": "4959.304", "lng": "3650.025"
+        },
+		"description": "Entrance to caves where you can find supply drops and secrets.",
+		"icon": "icon_cave_entrance"
+	},
+    {
+		"name": "Cave Entrance",
+        "sector": null,
+		"location": {
+            "lat": "4896.324", "lng": "3656.790"
+        },
+		"description": "Entrance to caves where you can find supply drops and secrets.",
+		"icon": "icon_cave_entrance"
+	},
+    {
+		"name": "Cave Entrance",
+        "sector": null,
+		"location": {
+            "lat": "5050.974", "lng": "3705.307"
+        },
+		"description": "Entrance to caves where you can find supply drops and secrets.",
+		"icon": "icon_cave_entrance"
+	},
+    {
+		"name": "Cave Entrance",
+        "sector": null,
+		"location": {
+            "lat": "5110.455", "lng": "3799.544"
+        },
+		"description": "Entrance to caves where you can find supply drops and secrets.",
+		"icon": "icon_cave_entrance"
+	}
+]

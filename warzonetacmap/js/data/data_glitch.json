@@ -1,0 +1,179 @@
+[
+	{
+		"name": "Texture glitch",
+		"sector": "F3",
+		"type": "texture",
+		"checked": "Jan/03/2023",
+		"lat": 5287.391,
+		"lng": 4234.509,
+		"description": "Somewhere here (we won't say where exactly) is a place where the player can get into textures. Be careful!",
+		"icon": "icon_glitch",
+		"radius": 70,
+		"styles": {
+			"fillColor": "#FF0000",
+			"color": "#FF0000",
+			"weight": 1
+		}
+	},
+	{
+		"name": "Texture glitch",
+		"sector": "F5",
+		"type": "texture",
+		"checked": "Jan/17/2023",
+		"lat": 3802.652,
+		"lng": 4661.679,
+		"description": "Somewhere here (we won't say where exactly) is a place where the player can get into textures. Be careful!",
+		"icon": "icon_glitch",
+		"radius": 70,
+		"styles": {
+			"fillColor": "#FF0000",
+			"color": "#FF0000",
+			"weight": 1
+		}
+	},
+	{
+		"name": "Texture glitch",
+		"sector": "G5",
+		"type": "texture",
+		"checked": "Jan/17/2023",
+		"lat": 3762.955,
+		"lng": 4975.196,
+		"description": "Somewhere here (we won't say where exactly) is a place where the player can get into textures. Be careful!",
+		"icon": "icon_glitch",
+		"radius": 70,
+		"styles": {
+			"fillColor": "#FF0000",
+			"color": "#FF0000",
+			"weight": 1
+		}
+	},
+	{
+		"name": "Texture glitch",
+		"sector": "G3",
+		"type": "texture",
+		"checked": "Jan/03/2023",
+		"lat": 5214.362,
+		"lng": 5075.726,
+		"description": "Somewhere here (we won't say where exactly) is a place where the player can get into textures. Be careful!",
+		"icon": "icon_glitch",
+		"radius": 70,
+		"styles": {
+			"fillColor": "#FF0000",
+			"color": "#FF0000",
+			"weight": 1
+		}
+	},
+	{
+		"name": "Texture glitch",
+		"sector": "D5",
+		"type": "texture",
+		"checked": "Jan/03/2023",
+		"lat": 3952.373,
+		"lng": 2791.304,
+		"description": "Somewhere here (we won't say where exactly) is a place where the player can get into textures. Be careful!",
+		"icon": "icon_glitch",
+		"radius": 70,
+		"styles": {
+			"fillColor": "#FF0000",
+			"color": "#FF0000",
+			"weight": 1
+		}
+	},
+	{
+		"name": "Texture glitch",
+		"sector": "F3",
+		"type": "texture",
+		"checked": "Jan/16/2023",
+		"lat": 5440.858,
+		"lng": 4240.472,
+		"description": "Somewhere here (we won't say where exactly) is a place where the player can get into textures. Be careful!",
+		"icon": "icon_glitch",
+		"radius": 70,
+		"styles": {
+			"fillColor": "#FF0000",
+			"color": "#FF0000",
+			"weight": 1
+		}
+	},
+	{
+		"name": "Texture glitch",
+		"sector": "G8",
+		"type": "texture",
+		"checked": "Jan/03/2023",
+		"lat": 1333.250,
+		"lng": 4940.202,
+		"description": "Somewhere here (we won't say where exactly) is a place where the player can get into textures. Be careful!",
+		"icon": "icon_glitch",
+		"radius": 70,
+		"styles": {
+			"fillColor": "#FF0000",
+			"color": "#FF0000",
+			"weight": 1
+		}
+	},
+	{
+		"name": "Texture glitch",
+		"sector": "B5",
+		"type": "texture",
+		"checked": "Jan/03/2023",
+		"lat": 3394.403,
+		"lng": 1522.973,
+		"description": "Somewhere here (we won't say where exactly) is a place where the player can get into textures. Be careful!",
+		"icon": "icon_glitch",
+		"radius": 70,
+		"styles": {
+			"fillColor": "#FF0000",
+			"color": "#FF0000",
+			"weight": 1
+		}
+	},
+	{
+		"name": "Texture glitch",
+		"sector": "B5",
+		"type": "texture",
+		"checked": "Jan/03/2023",
+		"lat": 4747.615,
+		"lng": 2297.050,
+		"description": "Somewhere here (we won't say where exactly) is a place where the player can get into textures. Be careful!",
+		"icon": "icon_glitch",
+		"radius": 70,
+		"styles": {
+			"fillColor": "#FF0000",
+			"color": "#FF0000",
+			"weight": 1
+		}
+	},
+	{
+		"name": "Texture glitch",
+		"sector": "C4",
+		"type": "texture",
+		"checked": "Jan/23/2023",
+		"lat": 4605.411,
+		"lng": 1616.234,
+		"description": "Somewhere here (we won't say where exactly) is a place where the player can get into textures. Be careful!",
+		"icon": "icon_glitch",
+		"radius": 70,
+		"styles": {
+			"fillColor": "#FF0000",
+			"color": "#FF0000",
+			"weight": 1
+		}
+	},
+	{
+		"name": "Texture glitch",
+		"sector": "F3",
+		"type": "texture",
+		"checked": "Jan/26/2023",
+		"lat": 4997.680,
+		"lng": 4549.142,
+		"description": "Somewhere here (we won't say where exactly) is a place where the player can get into textures. Be careful!",
+		"icon": "icon_glitch",
+		"radius": 70,
+		"styles": {
+			"fillColor": "#FF0000",
+			"color": "#FF0000",
+			"weight": 1
+		}
+	}
+]
+

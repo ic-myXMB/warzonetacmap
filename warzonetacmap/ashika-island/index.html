@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-JZ1QDYJP7L"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JZ1QDYJP7L');
+        </script>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <title>Ashika Island - Interactive Tac Map for Warzone 2.0 and DMZ</title>
+
+        <meta name="title" content="Ashika Island - Interactive Tac Map for Warzone 2.0 and DMZ">
+        <meta name="description" content="The big interactive tactical map for Warzone 2.0 and DMZ, where you can find all possible locations for: dmz keys, dead drops, hidden cache, exfil, strongholds, safes, weapon case zones, etc.">
+        <meta name="keywords" content="Warzone 2.0, Ashika Island, DMZ, Tac, interactive map, dmz keys, tactical, strongholds, dead drops,hidden cache, exfil, player spawns, radiation zones">
+        <meta name="robots" content="index, follow">
+        <meta name="author" content="Andrei 'tuesandt' Zhuk" />
+        <link rel="canonical" href="https://warzonetacmap.online/">
+
+        <!-- Facebook Meta Tags -->
+        <meta property="og:url" content="https://warzonetacmap.online/ashika-island/">
+        <meta property="og:title" content="Ashika Island - Interactive Tac Map for Warzone 2.0 and DMZ">
+        <meta property="og:description" content="The big interactive tactical map for Warzone 2.0 and DMZ, where you can find all possible locations for: dmz keys, dead drops, hidden cache, exfil, strongholds, safes, weapon case zones, etc.">
+        <meta property="og:image" content="https://warzonetacmap.online/ashika-island/src/assets/preview.jpg">
+        <meta property="og:image:url" content="https://warzonetacmap.online/ashika-island/src/assets/preview.jpg">
+        <meta property="og:image:secure_url" content="https://warzonetacmap.online/ashika-island/src/assets/preview.jpg">
+        <!-- Twitter Meta Tags -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="twitter:domain" content="warzonetacmap.online">
+        <meta property="twitter:url" content="https://warzonetacmap.online/ashika-island/">
+        <meta name="twitter:title" content="Ashika Island - Interactive Tac Map for Warzone 2.0 and DMZ">
+        <meta name="twitter:description" content="The big interactive tactical map for Warzone 2.0 and DMZ, where you can find all possible locations for: dmz keys, dead drops, hidden cache, exfil, strongholds, safes, weapon case zones, etc.">
+        <meta name="twitter:image" content="https://warzonetacmap.online/ashika-island/src/assets/preview.jpg">
+
+        <!-- Fav icon -->
+        <link rel="apple-touch-icon" sizes="180x180" href="../images/icon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="../images/icon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="../images/icon/favicon-16x16.png">
+        <!-- <link rel="manifest" href="../images/icon/site.webmanifest">
+        <link rel="mask-icon" href="../images/icon/safari-pinned-tab.svg" color="#5bbad5"> -->
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#ffcc00">
+        <!--
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        -->
+        <link href="../css/css2.css?family=Open+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="../css/leaflet.min.css">
+        <link rel="stylesheet" href="../css/autocomplete.min.css"/>
+        <link rel="stylesheet" href="../css/style.css">
+
+        <script src="../js/current-device.min.js"></script>
+        <script src="../js/leaflet.min.js"></script>
+    </head>
+    <body>
+        <!-- header -->
+        <div class="header">
+            <div id="auto-search-wrapper" class="auto-search-wrapper">
+                <img loading="lazy" src="../images/icons/icon-mark.svg" width="20px" alt="search icon" class="icon-mark">
+                <input type="text" id="multi-layer-serch" autocomplete="off" placeholder="Dead drop" />
+            </div>
+            <div class="sidebar-toggle-btn">
+                <button id="sidebar-btn"><img loading="lazy" src="../images/icons/icon-menu.svg" width="34" height="34" alt="Open and close sidebar"></button>
+            </div>
+        </div>
+        <!-- header -->
+
+        <!-- sidebar -->
+        <div id="sidebar" class="sidebar">
+            <div class="content">
+                <header>
+                    <h1 class="logo">
+                        <a href="../index.html" title="Interactive Tactical Map for Warzone 2.0 and DMZ">
+                            <img loading="lazy" src="../images/warzonetacticalmap-logo-new.png" width="180" height="74" alt="Interactive Tactical Map for Warzone 2.0 and DMZ">
+                            <span>Interactive Tactical Map for Warzone 2.0 and DMZ</span>
+                        </a>
+                    </h1>
+                </header>
+                <div class="sidebar-socials">
+                    <a target="_blank" href="https://discord.gg/5v8Z4QzCpm" title="Discord">
+                        <img loading="lazy" width="20" height="20" src="../images/icons/icon-discord.svg" alt="Discord server of Warzone Tactical Map">
+                    </a>
+                    <a target="_blank" href="https://twitter.com/warzonetacmap" title="Twitter">
+                        <img loading="lazy" width="20" height="20"  src="../images/icons/icon-twitter.svg" alt="Twitter of Warzone Tactical Map">
+                    </a>
+                    <a class="paypal" target="_blank" href="https://www.paypal.com/donate/?hosted_button_id=9MEW6DPT4DD8U" title="PayPal Donate">
+                        <img loading="lazy" width="20" height="20"  src="../images/icons/icon-heart.svg" alt="Support Developer">
+                    </a>
+                    
+                </div>
+                <div class="header-section-nav">
+                    <button id="remove-all-markers" class="">Remove all</button>
+                    <div id="header-control"></div>
+                </div>
+                <div class="header-section-nav">
+                    <div class="title">Items</div>
+                    <div id="header-control-items"></div>
+                </div>
+                <div class="header-section-nav">
+                    <div class="title">Map view config</div>
+                    <div id="header-control-map"></div>
+                </div>
+                <div class="map-settings-block">
+                    <div class="header-section-nav">
+                        <div class="title">Opacity of map icons</div>
+                        <div class="change-icons-opacity-box change-icons-size-box">
+                            <label for="markers-opacity-1">
+                                <input id="markers-opacity-1" type="radio" name="markers-opacity[]" value="0.25">
+                                <span>25%</span>
+                            </label>
+                            <label for="markers-opacity-2">
+                                <input id="markers-opacity-2" type="radio" name="markers-opacity[]" value="0.50">
+                                <span>50%</span>
+                            </label>
+                            <label for="markers-opacity-3">
+                                <input id="markers-opacity-3" type="radio" name="markers-opacity[]" value="0.75">
+                                <span>75%</span>
+                            </label>
+                            <label for="markers-opacity-4">
+                                <input id="markers-opacity-4" type="radio" name="markers-opacity[]" value="1">
+                                <span>Default</span>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="header-section-nav">
+                        <div class="title">Color of map</div>
+                        <div class="change-icons-color-box">
+                            <label for="markers-color-1">
+                                <input id="markers-color-1" type="radio" name="markers-color[]" value="mono">
+                                <span>Mono</span>
+                            </label>
+                            <label for="markers-color-2">
+                                <input id="markers-color-2" type="radio" name="markers-color[]" value="color">
+                                <span>Color</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="help-message-box">
+                    <div class="title">share point</div>
+                    <div class="content"><div>Hold <code>alt</code> and press <code>left button</code> of mouse at any place to create link for share it with teammates.</div></div>
+                </div>
+            </div>
+        </div>
+        <!-- sidebar -->
+        <!-- map -->
+        <main>
+            <div id="map"></div>
+        </main>
+        <!-- map -->
+
+        <!-- switcher -->
+        <div class="map-switcher">
+            <a href="..">Al-Mazrah</a>
+            <span class="active">Ashika Island</a>
+        </div>
+        <!-- switcher -->
+
+        <div data-update-id="1.6.2" class="update-notification">
+            <div class="box">
+                <div class="title">Update: Feb, 21 (1.6.2)</div>
+                <div class="content">
+                    <!-- <div class="warn-box">
+                        Please, do <strong>hard clear cache</strong> in your browser to get pretty view of interface!
+                    </div> -->
+    
+                    <div class="block-title">General</div>
+                    <p> + Change Player spawn icon.</p>
+    
+                    <div class="block-title">Al-Mazrah</div>
+                    <p> + New Player spawn locations.</p>
+    
+                    <div class="block-title">Ashika Island</div>
+                    <p> + New Hidden cache locations.</p>
+                    <p> + New Exfil locations.</p>
+                    <p> + New Radiation zone locations.</p>
+                    <br>
+                    <p>Join our <a target="_blank" href="https://discord.gg/5v8Z4QzCpm">Discord support server</a> for report errors or new locations of: exfil, hidden cache, chemical zone, or other intresting points!</p>
+    
+                </div>
+                <button class="got-it" data-update-id="1.6.2">Got it</button>
+            </div>
+        </div>
+
+        <div id="notification-message-box"></div>
+    </body>
+    <script src="../js/clipboard.min.js"></script>
+    <script src="../js/autocomplete.min.js"></script>
+    <script src="../js/prettyControl.js"></script>
+    <script src="src/assets/js/g.f.js"></script>
+    <script src="src/assets/js/general.js"></script>
+    <script src="../js/sidebar.js"></script>
+    <script>
+        function showUpdateMessage(){
+            if(document.querySelector('.update-notification') == null) return;
+            let currentUpdateVersion = document.querySelector('.update-notification').dataset.updateId;
+            let lastStorageUpdateVersion = localStorage.getItem('message-update-version') != null ? localStorage.getItem('message-update-version') : '0';
+            if(currentUpdateVersion !== lastStorageUpdateVersion) {
+                document.querySelector('.update-notification').classList.add('open');
+            }
+            document.querySelector('.update-notification .got-it').addEventListener('click', (e) => {
+                e.preventDefault();
+                let updateId = e.target.dataset.updateId;
+                localStorage.setItem('message-update-version', updateId);
+                document.querySelector('.update-notification').classList.remove('open');
+            })
+        }
+        showUpdateMessage();
+    </script>
+    <script>
+        // Size of icons
+        document.getElementsByClassName('change-icons-size-box')[0].addEventListener('click', (e) => {
+            if(event.target.classList.contains('change-size-btn')){
+                changeMarkerSize(event.target.dataset.size);
+            }
+        })
+
+        // Opacity of markers
+        document.getElementsByClassName('change-icons-opacity-box')[0].addEventListener('change', (e) => {
+            if(event.target.matches("input")){
+                changeMarkerOpacity(event.target.value);
+            }
+        })
+
+        // Color of map
+        document.getElementsByClassName('change-icons-color-box')[0].addEventListener('change', (e) => {
+            if(event.target.matches("input")){
+                // changeMapColor(event.target.dataset.color);
+                if(event.target.value == 'mono') {
+                    document.getElementById('map').classList.add('map-color-mono');
+                } else {
+                    document.getElementById('map').classList.remove('map-color-mono');
+                }
+            }
+        })
+    </script>
+
+
+</html>

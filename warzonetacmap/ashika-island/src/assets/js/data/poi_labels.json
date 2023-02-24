@@ -1,0 +1,51 @@
+[
+	{
+		"title": "Beach Club",
+		"location": {
+            "lat": "2336.466", "lng": "3691.188"
+        },
+		"labelType": "main"
+	},
+    {
+		"title": "Port Ashika",
+		"location": {
+            "lat": "2255.011", "lng": "5470.332"
+        },
+		"labelType": "main"
+	},
+    {
+		"title": "Shinwreck",
+		"location": {
+            "lat": "3888.394", "lng": "6473.512"
+        },
+		"labelType": "main"
+	},
+    {
+		"title": "Residential",
+		"location": {
+            "lat": "4677.219", "lng": "5521.777"
+        },
+		"labelType": "main"
+	},
+    {
+		"title": "Tsuki Castle",
+		"location": {
+            "lat": "3695.475", "lng": "4960.168"
+        },
+		"labelType": "main"
+	},
+    {
+		"title": "Oganikku Farms",
+		"location": {
+            "lat": "5003.039", "lng": "2949.521"
+        },
+		"labelType": "main"
+	},
+    {
+		"title": "Town Center",
+		"location": {
+            "lat": "3712.623", "lng": "2983.817"
+        },
+		"labelType": "main"
+	}
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Safe",
+        "sector": null,
+        "location": {
+            "lat": "3806.939", "lng": "6169.128"
+        },
+        "description": "Potential spawn location of the safe",
+        "icon": "icon_safe"
+    }
+]
