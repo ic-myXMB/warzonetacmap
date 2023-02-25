@@ -41,4 +41,4 @@ And visit in your browser via your localhost for example:
 localhost:8080/warzonetacmap/
 
 
-Thats's it!
+Simple enough right?! And that is it!
