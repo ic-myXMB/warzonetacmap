@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Dead drop - Residential",
+        "sector": "G3",
+        "location": {
+            "lat": "4941.744",
+            "lng": "5459.148"
+        },
+        "description": null,
+        "icon": "icon_deadDrops"
+    },
+    {
+        "name": "Dead drop - Tsuki Castle",
+        "sector": "G5",
+        "location": {
+            "lat": "3427.738",
+            "lng": "4939.331"
+        },
+        "description": null,
+        "icon": "icon_deadDrops"
+    },
+    {
+        "name": "Dead drop - Beach Club",
+        "sector": "G5",
+        "location": {
+            "lat": "2730.343",
+            "lng": "3649.925"
+        },
+        "description": null,
+        "icon": "icon_deadDrops"
+    },
+    {
+        "name": "Dead drop - Town Center",
+        "sector": "E5",
+        "location": {
+            "lat": "3997.988",
+            "lng": "3684.200"
+        },
+        "description": null,
+        "icon": "icon_deadDrops"
+    }
+]
+

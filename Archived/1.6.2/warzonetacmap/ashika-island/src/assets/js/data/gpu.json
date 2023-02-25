@@ -1,0 +1,11 @@
+[
+    {
+		"name": "GPU",
+        "sector": null,
+		"location": {
+            "lat": "3722.992", "lng": "4801.030"
+        },
+		"description": "Location of GPU with a probability of more than 50%",
+		"icon": "icon_gpu"
+	}
+]

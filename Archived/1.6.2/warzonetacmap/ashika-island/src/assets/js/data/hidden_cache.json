@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Hidden Cashe",
+        "location": {
+            "lat": "3898.040", "lng": "4542.176"
+        },
+        "description": null,
+        "icon": "icon_hiddenCashe"
+    },
+    {
+        "name": "Hidden Cashe",
+        "location": {
+            "lat": "4608.017", "lng":"2685.036"
+        },
+        "description": null,
+        "icon": "icon_hiddenCashe"
+    },
+    {
+        "name": "Hidden Cashe",
+        "location": {
+            "lat": "4219.572", "lng":"2831.625"
+        },
+        "description": null,
+        "icon": "icon_hiddenCashe"
+    },
+    {
+        "name": "Hidden Cashe",
+        "location": {
+            "lat": "4219.572", "lng":"2831.625"
+        },
+        "description": null,
+        "icon": "icon_hiddenCashe"
+    },
+    {
+        "name": "Hidden Cashe",
+        "location": {
+            "lat": "5732.916", "lng":"2530.993"
+        },
+        "description": null,
+        "icon": "icon_hiddenCashe"
+    },
+    {
+        "name": "Hidden Cashe",
+        "location": {
+            "lat": "4049.954", "lng":"2466.742"
+        },
+        "description": null,
+        "icon": "icon_hiddenCashe"
+    },
+    {
+        "name": "Hidden Cashe",
+        "location": {
+            "lat": "3181.024", "lng":"6370.621"
+        },
+        "description": null,
+        "icon": "icon_hiddenCashe"
+    },
+    {
+        "name": "Hidden Cashe",
+        "location": {
+            "lat": "3701.029", "lng":"5443.412"
+        },
+        "description": null,
+        "icon": "icon_hiddenCashe"
+    },
+    {
+        "name": "Hidden Cashe",
+        "location": {
+            "lat": "4052.734", "lng":"5083.584"
+        },
+        "description": null,
+        "icon": "icon_hiddenCashe"
+    },
+    {
+        "name": "Hidden Cashe",
+        "location": {
+            "lat": "3449.190", "lng":"4904.021"
+        },
+        "description": null,
+        "icon": "icon_hiddenCashe"
+    },
+    {
+        "name": "Hidden Cashe (Waterways)",
+        "location": {
+            "lat": "3449.190", "lng":"4904.021"
+        },
+        "description": null,
+        "icon": "icon_hiddenCashe"
+    },
+    {
+        "name": "Hidden Cashe",
+        "location": {
+            "lat": "5387.099", "lng":"4126.105"
+        },
+        "description": null,
+        "icon": "icon_hiddenCashe"
+    },
+    {
+        "name": "Hidden Cashe",
+        "location": {
+            "lat": "5387.099", "lng":"4126.105"
+        },
+        "description": null,
+        "icon": "icon_hiddenCashe"
+    }
+]

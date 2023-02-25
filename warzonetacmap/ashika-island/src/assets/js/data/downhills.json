@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Downhill",
+        "sector": null,
+        "location": {
+            "lat": "4428.400",
+            "lng": "4610.345"
+        },
+        "description": "Here you will find a ladder or a zipline with which you can get underground.",
+        "icon": "icon_zipline"
+    },
+    {
+        "name": "Downhill",
+        "sector": null,
+        "location": {
+            "lat": "4706.190", "lng":"4318.746"
+        },
+        "description": "Here you will find a ladder or a zipline with which you can get underground.",
+        "icon": "icon_zipline"
+    },
+    {
+        "name": "Downhill",
+        "sector": null,
+        "location": {
+            "lat": "3701.434", "lng":"4245.643"
+        },
+        "description": "Here you will find a ladder or a zipline with which you can get underground.",
+        "icon": "icon_zipline"
+    },
+    {
+        "name": "Downhill",
+        "sector": null,
+        "location": {
+            "lat": "3945.110", "lng":"4432.461"
+        },
+        "description": "Here you will find a ladder or a zipline with which you can get underground.",
+        "icon": "icon_zipline"
+    },
+    {
+        "name": "Downhill",
+        "sector": null,
+        "location": {
+            "lat": "3572.303", "lng":"4494.371"
+        },
+        "description": "Here you will find a ladder or a zipline with which you can get underground.",
+        "icon": "icon_zipline"
+    },
+    {
+        "name": "Cave Entrance",
+        "sector": null,
+        "location": {
+            "lat": "3427.506", "lng":"4541.692"
+        },
+        "description": null,
+        "icon": "icon_cave_entrance"
+    },
+    {
+        "name": "Cave Entrance",
+        "sector": null,
+        "location": {
+            "lat": "3548.731", "lng":"4727.309"
+        },
+        "description": null,
+        "icon": "icon_cave_entrance"
+    }
+]

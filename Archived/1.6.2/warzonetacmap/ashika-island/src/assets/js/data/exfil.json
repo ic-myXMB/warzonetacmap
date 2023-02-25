@@ -1,0 +1,164 @@
+[
+    {
+		"name": "Exfil",
+        "sector": "E6",
+		"location": {
+            "lat": "2831.632", "lng": "3889.185"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "G5",
+		"location": {
+            "lat": "3328.929", "lng": "5466.598"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "H5",
+		"location": {
+            "lat": "3543.822", "lng": "6206.296"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "F6",
+		"location": {
+            "lat": "3035.916", "lng": "4484.144"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "G6",
+		"location": {
+            "lat": "2460.313", "lng": "5037.589"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "E4",
+		"location": {
+            "lat": "4259.452", "lng": "3772.912"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "E4",
+		"location": {
+            "lat": "4178.504", "lng": "5857.785"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "E4",
+		"location": {
+            "lat": "4379.657", "lng": "2491.198"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "E4",
+		"location": {
+            "lat": "1963.101", "lng": "4739.808"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "G3",
+		"location": {
+            "lat": "5217.393", "lng":"5063.594"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "H4",
+		"location": {
+            "lat": "4226.102", "lng":"6251.955"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "E6",
+		"location": {
+            "lat": "3182.668", "lng":"3987.213"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "D4",
+		"location": {
+            "lat": "4216.307", "lng":"3055.458"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "E3",
+		"location": {
+            "lat": "5449.776", "lng":"3294.315"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Last Exfil",
+        "sector": "H6",
+		"location": {
+            "lat": "2425.886", "lng":"6039.989"
+        },
+		"description": "The last exit will appear when the other 3 are covered by the radiation zone.",
+		"icon": "icon_exfil_last"
+	},
+    {
+		"name": "Last Exfil",
+        "sector": "H3",
+		"location": {
+            "lat": "4969.814", "lng":"6073.204"
+        },
+		"description": "The last exit will appear when the other 3 are covered by the radiation zone.",
+		"icon": "icon_exfil_last"
+	},
+    {
+		"name": "Last Exfil",
+        "sector": "E7",
+		"location": {
+            "lat": "1606.900", "lng":"3861.510"
+        },
+		"description": "The last exit will appear when the other 3 are covered by the radiation zone.",
+		"icon": "icon_exfil_last"
+	},
+    {
+		"name": "Exfil",
+        "sector": "F4",
+		"location": {
+            "lat": "4054.961", "lng":"4271.425"
+        },
+		"description": "One of two exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	}
+]

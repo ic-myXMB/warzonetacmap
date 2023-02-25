@@ -1,0 +1,11 @@
+[
+    {
+		"name": "Feed Fish",
+        "sector": null,
+		"location": {
+            "lat": "2360.405", "lng":"3617.772"
+        },
+		"description": "To complete the EE, you'll need to follow these steps:<br>First, gather explosive equipment like grenades, semtex, or C4.<br>Next, locate schools of fish in any of the bodies of water located on or around Ashika Island.<br>Then, throw your explosive into the water to cook the fish, and you'll be able to harvest them.<br>After you've collected the fish, head over to this place and look for the hungry seal.<br>Interact with the seal to feed it, and the seal will reward you by spitting out other explosives such as Claymores or Killstreaks like Precision Airstrikes. ",
+		"icon": "icon_easterEgg"
+	}
+]

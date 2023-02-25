@@ -1,0 +1,173 @@
+[
+    {
+		"name": "Player Spawn",
+        "sector": "G4",
+		"location": {
+            "lat": "4313.471", "lng": "5386.891"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "F7",
+		"location": {
+            "lat": "2330.251", "lng": "4453.339"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "C5",
+		"location": {
+            "lat": "3640.125", "lng": "1689.375"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "C5",
+		"location": {
+            "lat": "2786.632", "lng": "1305.391"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "D3",
+		"location": {
+            "lat": "4876.208", "lng": "2631.851"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "D3",
+		"location": {
+            "lat": "6375.174", "lng": "4602.787"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "H6",
+		"location": {
+            "lat": "2643.267", "lng": "5669.420"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "D6",
+		"location": {
+            "lat": "2684.334", "lng": "2610.064"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "D8",
+		"location": {
+            "lat": "1342.000", "lng": "3035.000"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "C7",
+		"location": {
+            "lat": "2024.785", "lng": "2040.619"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "H5",
+		"location": {
+            "lat": "3380.528", "lng": "5759.247"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "E2",
+		"location": {
+            "lat": "5723.130", "lng": "3893.126"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "E1",
+		"location": {
+            "lat": "6716.804", "lng": "3445.216"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "F4",
+		"location": {
+            "lat": "4731.288", "lng": "4704.203"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "F8",
+		"location": {
+            "lat": "1477.226", "lng": "4134.453"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "G7",
+		"location": {
+            "lat": "1770.386", "lng": "5268.067"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "H4",
+		"location": {
+            "lat": "4060.560", "lng": "6075.911"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "H4",
+		"location": {
+            "lat": "5091.981", "lng": "5669.925"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "B3",
+		"location": {
+            "lat": "4901.664", "lng": "1267.135"
+        },
+		"description": null,
+		"icon": "icon_spawn"
+	}
+]

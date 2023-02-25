@@ -1,0 +1,16 @@
+[
+        {
+		"name": "Weapon Case",
+		"lat": 3823.272,
+		"lng": 5003.475,
+		"description": "Location of the zone in which Jager is located. After killing the Jager, you will receive an weapon case.<br>You will receive a reward for each of the 7 evacuated cases",
+		"icon": "icon_weaponCase_zone",
+		"radius": 340,
+		"styles": {
+			"fillColor": "#f5bb47",
+			"color": "#f5bb47",
+			"weight": 2,
+			"dashArray": [10, 10]
+		}
+	}
+]

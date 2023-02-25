@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Blow Torch",
+        "sector": null,
+        "location": {
+            "lat": "4822.981", "lng": "6171.272"
+        },
+        "description": "Possible location of Blow Torch. Be careful, because the chance of its appearance, especially during an active task, is very low.",
+        "icon": "icon_blow_torch"
+    }
+]
