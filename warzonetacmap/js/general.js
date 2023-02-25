@@ -232,11 +232,11 @@ async function main() {
 	});
 	
 	// Create the legend
-	var legend = L.control({ position: "bottomleft" });
+	var legend = L.control({ position: "topright" });
 
 	legend.onAdd = function(map) {
 	  var div = L.DomUtil.create("div", "legend");
-	  div.innerHTML += "<h4>Legend</h4>";
+	  //div.innerHTML += "<h4>Legend</h4>";
 	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-key.svg);background-repeat: no-repeat;"></i><span>Key</span><br>';
 	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-deaddrop_1.svg);background-repeat: no-repeat;"></i><span>Dead Drop</span><br>';
 	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-spawn.svg);background-repeat: no-repeat;"></i><span>Player Spawn</span><br>';
@@ -768,7 +768,7 @@ async function main() {
 	// 	zoomOutTitle: 'Zoom out',
 	// 	position: "bottomright", zoomDelta: 0.5
 	// }).addTo(map);
-	L.control.zoom({ position: "topleft" }).addTo(map);
+	L.control.zoom({ position: "bottomleft" }).addTo(map);
 
 	document.addEventListener("keydown", (e) => {
 		if (e.ctrlKey || e.altKey) {

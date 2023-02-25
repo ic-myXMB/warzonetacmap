@@ -8,6 +8,10 @@
   border-radius: 5px;
   line-height: 24px;
   color: #FFFFFF;
+  font-size: 70%;
+  height: 20%;
+  width: 80%;
+  top: 60px;  
 }
 .legend h4 {
   text-align: center;

@@ -11,7 +11,7 @@
   font-size: 70%;
   height: 20%;
   width: 80%;
-  top: 60px;  
+  top: 60px;
 }
 .legend h4 {
   text-align: center;
@@ -23,6 +23,8 @@
 .legend span {
   position: relative;
   bottom: 3px;
+  overflow-y: auto;
+
 }
 
 .legend i {

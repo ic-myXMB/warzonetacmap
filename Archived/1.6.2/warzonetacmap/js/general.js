@@ -230,7 +230,31 @@ async function main() {
 		wheelPxPerZoomLevel: 60,
 		wheelDebounceTime: 0,
 	});
+	
+	// Create the legend
+	var legend = L.control({ position: "topright" });
 
+	legend.onAdd = function(map) {
+	  var div = L.DomUtil.create("div", "legend");
+	  //div.innerHTML += "<h4>Legend</h4>";
+	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-key.svg);background-repeat: no-repeat;"></i><span>Key</span><br>';
+	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-deaddrop_1.svg);background-repeat: no-repeat;"></i><span>Dead Drop</span><br>';
+	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-spawn.svg);background-repeat: no-repeat;"></i><span>Player Spawn</span><br>';
+	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-exfil.svg);background-repeat: no-repeat;"></i><span>Exfil</span><br>';
+	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-safe.svg);background-repeat: no-repeat;"></i><span>Safe</span><br>';
+	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-dot-yellow.svg);background-repeat: no-repeat;"></i><span>Hidden Cache</span><br>';
+	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-stronghold.svg);background-repeat: no-repeat;"></i><span>Strongholds</span><br>';
+	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-weapon-case.svg);background-repeat: no-repeat;"></i><span>Weapon Case</span><br>';
+	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-radiation-zone.svg);background-repeat: no-repeat;"></i><span>Radiation Zone</span><br>';
+	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-glitch-warn.svg);background-repeat: no-repeat;"></i><span>Glitches</span><br>';
+	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-cave-entance.svg);background-repeat: no-repeat;"></i><span>Cave Entrance</span><br>';
+	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/dots/icon-dot-yellow-light.svg);background-repeat: no-repeat;"></i><span>Blow Torch</span><br>';
+	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/dots/icon-dot-orange.svg);background-repeat: no-repeat;"></i><span>GPU</span><br>';
+
+	  return div;
+	};
+
+	legend.addTo(map);
 	
 	//////////////////////////////////////////////////////////////////////
 	/**
@@ -744,7 +768,7 @@ async function main() {
 	// 	zoomOutTitle: 'Zoom out',
 	// 	position: "bottomright", zoomDelta: 0.5
 	// }).addTo(map);
-	L.control.zoom({ position: "topleft" }).addTo(map);
+	L.control.zoom({ position: "bottomleft" }).addTo(map);
 
 	document.addEventListener("keydown", (e) => {
 		if (e.ctrlKey || e.altKey) {
