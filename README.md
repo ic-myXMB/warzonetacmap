@@ -17,4 +17,28 @@ For simple example:
 Note: 
 
 The initial project is done using: "1.6.2 Feb 21st Version" and while Andrei 'tuesandt' Zhuk just updated the site today on the 24th to "1.6.3", I have yet gotten around to updating this project with that version, though I may if and or when free time allows. 
+
+
+Localhost Usage:
+
+
+For this project I quickly used an existing Bitnami MAMP stack I had installed for example:
+
+Bitnami MAMP 8.1.6 Rev 0
+
+From: https://bitnami.com/
+
+Though, in reality you could most likely use whatever existing localhost dev environment server you may have already in usage that suits your needs....
+
+
+File Placement:
+
+
+Within the repository there is a dir called: "warzonetacmap", that you would place in your primary dir for example: "htdocs/warzonetacmap"
  
+And visit in your browser via your localhost for example:
+
+localhost:8080/warzonetacmap/
+
+
+Thats's it!
