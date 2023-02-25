@@ -7,7 +7,7 @@ I play Warzone and as such I am a very big fan of the features of the maps creat
 
 For simple example: 
 
-- the existing maps were setup to be in primary htdocs or public_html dir only as such is how the site is setup and I wanted them to be in a folder within my localhost primary directory instead, ie: htdocs/warzontacmap
+- the existing maps were setup to be in primary htdocs or public_html dir only as such is how the site is setup and I wanted them to be in a folder within my localhost primary directory instead, ie: htdocs/warzonetacmap
 
 - alot of external linked files like css, js, fonts etc, etc, and that won't do for an offline viewing option, thus all thos files needed to be included internally with the project. As such a bit of the linkages within source are changed.
 
