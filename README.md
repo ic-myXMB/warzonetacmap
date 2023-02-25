@@ -9,9 +9,9 @@ For simple example:
 
 - the existing maps were setup to be in primary htdocs or public_html dir only as such is how the site is setup and I wanted them to be in a folder within my localhost primary directory instead, ie: htdocs/warzonetacmap
 
-- alot of external linked files like css, js, fonts etc, etc, and that won't do for an offline viewing option, thus all thos files needed to be included internally with the project. As such a bit of the linkages within source are changed.
+- There are alot of external linked files like css, js, fonts etc, etc in the existing maps and that won't do for an offline viewing option, thus all those files needed to be included internally with the project. As such a bit of the linkages within source are changed.
 
-- while I kept most linkages existing, there were a few that needed to be changed as to not link to the site when selecting the diff maps, but besides that I tried to keep all other existing linkages intact as such suited my purposes while still keeping the majority of this as it was original.
+- While I kept most hyperlink linkages existing, there were a few that needed to be changed as to not link to the site when selecting the diff maps, but besides that I tried to keep all other existing linkages intact as such suited my purposes while still keeping the majority of this as it was original.
 
 
 Note: 
