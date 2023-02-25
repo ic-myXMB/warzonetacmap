@@ -171,7 +171,7 @@ async function main() {
 	  div.innerHTML += '<i class="icon" style="background-image: url(../images/icons/icon-exfil.svg);background-repeat: no-repeat;"></i><span>Exfil</span><br>';
 	  div.innerHTML += '<i class="icon" style="background-image: url(../images/icons/icon-safe.svg);background-repeat: no-repeat;"></i><span>Safe</span><br>';	  	  
 	  div.innerHTML += '<i class="icon" style="background-image: url(../images/icons/icon-game-machine.svg);background-repeat: no-repeat;"></i><span>Game Machine</span><br>';
-	  div.innerHTML += '<i class="icon" style="background-image: url(../images/icons/icon-radiation-zone.svg);background-repeat: no-repeat;"></i><span>Radiation</span><br>';
+	  div.innerHTML += '<i class="icon" style="background-image: url(../images/icons/icon-radiation-zone.svg);background-repeat: no-repeat;"></i><span>Radiation Zone</span><br>';
 	  div.innerHTML += '<i class="icon" style="background-image: url(../images/icons/icon-weapon-case.svg);background-repeat: no-repeat;"></i><span>Weapon Case</span><br>';
 	  div.innerHTML += '<i class="icon" style="background-image: url(../images/icons/icon-zipline.svg);background-repeat: no-repeat;"></i><span>Downhills & Caves</span><br>';
 	  div.innerHTML += '<i class="icon" style="background-image: url(../images/icons/icon-easter-egg.svg);background-repeat: no-repeat;"></i><span>Easter Egg</span><br>';
