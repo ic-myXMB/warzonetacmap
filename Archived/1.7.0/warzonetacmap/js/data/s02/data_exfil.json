@@ -1,0 +1,200 @@
+[
+    {
+		"name": "Exfil",
+        "sector": null,
+		"location": {
+            "lat": "4158.806", "lng": "3087.710"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "G8",
+		"location": {
+            "lat": "1592.833", "lng": "5104.189"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "H5",
+		"location": {
+            "lat": "3725.879", "lng": "5661.427"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "D5",
+		"location": {
+            "lat": "3699.226", "lng": "2630.132"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "F3",
+		"location": {
+            "lat": "5144.919", "lng": "4430.449"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "F5",
+		"location": {
+            "lat": "3273.377", "lng": "4309.811"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "F5",
+		"location": {
+            "lat": "4550.178", "lng": "5245.800"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "D3",
+		"location": {
+            "lat": "4934.545", "lng": "2766.909"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "F5",
+		"location": {
+            "lat": "3255.512", "lng": "4705.621"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "F5",
+		"location": {
+            "lat": "5909.493", "lng": "3791.925"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "E6",
+		"location": {
+            "lat": "2712.108", "lng": "3811.659"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "H3",
+		"location": {
+            "lat": "4960.000", "lng": "5702.000"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "F2",
+		"location": {
+            "lat": "6062.079 ", "lng": "4611.742"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "F6",
+		"location": {
+            "lat": "2420.073", "lng": "4376.284"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "D4",
+		"location": {
+            "lat": "4231.443", "lng": "2596.484"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "C3",
+		"location": {
+            "lat": "5019.720", "lng": "1730.098"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "C3",
+		"location": {
+            "lat": "3132.129", "lng": "2210.416"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "G8",
+		"location": {
+            "lat": "1147.427", "lng": "4864.252"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "B5",
+		"location": {
+            "lat": "3213.177", "lng": "1420.100"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "C6",
+		"location": {
+            "lat": "2679.434", "lng": "2091.566"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "C6",
+		"location": {
+            "lat": "4941.412", "lng": "1748.063"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	},
+    {
+		"name": "Exfil",
+        "sector": "C6",
+		"location": {
+            "lat": "2918.457", "lng": "4715.695"
+        },
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "icon_exfil"
+	}
+]

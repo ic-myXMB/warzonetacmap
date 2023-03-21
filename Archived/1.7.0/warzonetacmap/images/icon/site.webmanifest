@@ -1,0 +1,25 @@
+{
+    "name": "Warzone 2.0 and DMZ Interactive Tactical Map",
+    "short_name": "Warzone 2.0 and DMZ Interactive Tactical Map",
+    "icons": [
+        {
+            "src": "/images/icon/android-chrome-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/icon/android-chrome-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "https://warzonetacmap.online",
+    "scope": "https://warzonetacmap.online",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#FFF",
+    "theme_color": "#ffcc00",
+    "description": "The big interactive tactical map for Warzone 2.0 and DMZ, where you can find all possible locations for: dmz keys, dead drops, hidden cache, exfil, strongholds, safes, weapon case zones, etc.",
+    "dir": "ltr",
+    "leng": "en-US"
+}
