@@ -18,7 +18,7 @@ For simple example:
 
 Note: 
 
-The initial project was done using: "1.6.2 Feb 21st Version" as that was the available version at time of starting this rather quick and simple project and while Andrei 'tuesandt' Zhuk just updated the site today on the 24th of Feb to "1.6.3", and as such as soon as my free time allowed, I did the same edits but now on the "1.6.3" version so as to have the current version available for offline localhost usages. Now done also on 1.7.0 variant.
+The initial project was done using: "1.6.2 Feb 21st Version" as that was the available version at time of starting this rather quick and simple project and while Andrei 'tuesandt' Zhuk just updated the site today on the 24th of Feb to "1.6.3", and as such as soon as my free time allowed, I did the same edits but now on the "1.6.3" version so as to have the current version available for offline localhost usages. Now done also on 1.7.0 variant. Now done also on 1.8.3 variant.
 
 
 Localhost Usage:
