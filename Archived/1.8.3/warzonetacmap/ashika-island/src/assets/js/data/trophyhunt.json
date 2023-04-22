@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Trophy Upload Station",
+        "location": {
+            "lat": "4758.175", "lng":"5732.065"
+        },
+        "description": "Possible place of a trophy upload station, which is a location where players can save their collected trophies earned from killed human and AI enemies in various game modes, preventing loss upon death or match end.",
+        "icon": "$icon.trophyHunt"
+    },
+    {
+        "name": "Trophy Upload Station",
+        "location": {
+            "lat": "3213.491", "lng":"5721.387"
+        },
+        "description": "Possible place of a trophy upload station, which is a location where players can save their collected trophies earned from killed human and AI enemies in various game modes, preventing loss upon death or match end.",
+        "icon": "$icon.trophyHunt"
+    },
+    {
+        "name": "Trophy Upload Station",
+        "location": {
+            "lat": "4073.939", "lng":"3686.065"
+        },
+        "description": "Possible place of a trophy upload station, which is a location where players can save their collected trophies earned from killed human and AI enemies in various game modes, preventing loss upon death or match end.",
+        "icon": "$icon.trophyHunt"
+    },
+    {
+        "name": "Trophy Upload Station",
+        "location": {
+            "lat": "2789.826", "lng":"3657.427"
+        },
+        "description": "Possible place of a trophy upload station, which is a location where players can save their collected trophies earned from killed human and AI enemies in various game modes, preventing loss upon death or match end.",
+        "icon": "$icon.trophyHunt"
+    },
+    {
+        "name": "Trophy Upload Station",
+        "location": {
+            "lat": "2750.645", "lng":"5166.829"
+        },
+        "description": "Possible place of a trophy upload station, which is a location where players can save their collected trophies earned from killed human and AI enemies in various game modes, preventing loss upon death or match end.",
+        "icon": "$icon.trophyHunt"
+    }
+
+]

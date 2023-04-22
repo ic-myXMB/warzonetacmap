@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Hospital",
+        "location" : {
+            "lat": "5141.292",
+            "lng": "2294.853"
+        },
+        "sector": "C3",
+        "description": null,
+        "icon": "$icon.hospital"
+    },
+    {
+        "name": "Hospital",
+        "location" : {
+            "lat": "3275.710",
+            "lng": "5608.771"
+        },
+        "sector": "H5",
+        "description": null,
+        "icon": "$icon.hospital"
+    },
+    {
+        "name": "Hospital",
+        "location" : {
+            "lat": "3892.765",
+            "lng": "5799.733"
+        },
+        "sector": "H5",
+        "description": null,
+        "icon": "$icon.hospital"
+    },
+    {
+        "name": "Hospital",
+        "location" : {
+            "lat": "1511.034",
+            "lng": "2625.161"
+        },
+        "sector": "D8",
+        "description": null,
+        "icon": "$icon.hospital"
+    },
+    {
+        "name": "Hospital",
+        "location" : {
+            "lat": "2825.813",
+            "lng": "2621.952"
+        },
+        "sector": "D6",
+        "description": null,
+        "icon": "$icon.hospital"
+    },
+    {
+        "name": "Hospital",
+        "location" : {
+            "lat": "4613.098",
+            "lng": "4707.896"
+        },
+        "sector": "F4",
+        "description": null,
+        "icon": "$icon.hospital"
+    }
+]

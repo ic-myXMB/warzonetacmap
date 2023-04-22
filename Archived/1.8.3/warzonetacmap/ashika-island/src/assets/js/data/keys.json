@@ -1,0 +1,251 @@
+[
+    {
+        "name": "Ashika Island Information Booth",
+        "sector": "D5",
+        "keyRate": "C",
+        "location": {
+            "lat": "3897.803", "lng":"2808.240"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "Beach Club Bathhouse",
+        "sector": "E7",
+        "keyRate": "D",
+        "location": {
+            "lat": "1846.724", "lng":"3716.820"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "City Hall Hideout Key",
+        "sector": "F6",
+        "keyRate": "S",
+        "location": {
+            "lat": "2728.216", "lng":"4067.701"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key_green",
+        "alternative_icon": "$icon.key_green",
+        "relations": {
+          "mission": "Required for Whistleblower, Tier 1, Crown"
+        }
+      },
+      {
+        "name": "Combat Engineer Toolkit",
+        "sector": "F4",
+        "keyRate": "F",
+        "location": {
+            "lat": "4376.718", "lng":"4780.534"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "Drifting Supply Bag",
+        "sector": "D2",
+        "keyRate": "S",
+        "location": {
+            "lat": "6010.408", "lng":"3136.726"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "Farmer's Lunchbox",
+        "sector": "D4",
+        "keyRate": "F",
+        "location": {
+            "lat": "4474.698", "lng":"3189.715"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "Floatsam Cargo Cache",
+        "sector": "E5",
+        "keyRate": "C",
+        "location": {
+            "lat": "3457.541", "lng":"3923.763"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "H.M.S. Shipwreck Cache",
+        "sector": "I5",
+        "keyRate": "D",
+        "location": {
+            "lat": "3658.385", "lng":"6626.355"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "Hotel Employee Fridge",
+        "sector": "F5",
+        "keyRate": "A",
+        "location": {
+            "lat": "3211.033", "lng":"4023.438"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "Lost Manager's Office",
+        "sector": "G6",
+        "keyRate": "D",
+        "location": {
+            "lat": "2653.546", "lng":"5182.065"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "Lost Room 403",
+        "sector": "F6",
+        "keyRate": "S",
+        "location": {
+            "lat": "3145.362", "lng":"4015.509"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key_green",
+        "relations": {
+            "mission": "Intel Exchange, Tier 2, Crown"
+          },
+        "alternative_icon": "$icon.key_green"
+      },
+      {
+        "name": "Main Harbor Control",
+        "sector": "H6",
+        "keyRate": "A",
+        "location": {
+            "lat": "2668.249", "lng":"5735.314"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "Mud Covered Cache",
+        "sector": "G5",
+        "keyRate": "B",
+        "location": {
+            "lat": "3973.539", "lng":"5186.232"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "Research Center Room",
+        "sector": "E5",
+        "keyRate": "S",
+        "location": {
+            "lat": "3797.444", "lng":"3933.667"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key_green",
+        "alternative_icon": "$icon.key_green",
+        "relations": {
+          "mission": "Toxin Research, Tier 4, White Lotus "
+        }
+      },
+      {
+        "name": "Rusted Fridge",
+        "sector": "F8",
+        "keyRate": "A",
+        "location": {
+            "lat": "1245.401", "lng":"4474.118"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "Tsuki Castle",
+        "sector": "G5",
+        "keyRate": "S",
+        "location": {
+            "lat": "3549.257", "lng":"4928.280"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "Tsuki Castle Weapons Locker",
+        "sector": "G5",
+        "keyRate": "A",
+        "location": {
+            "lat": "3726.674", "lng":"4813.775"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "Water Pump Control",
+        "sector": "F3",
+        "keyRate": "F",
+        "location": {
+            "lat": "5040.838", "lng":"4460.078"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "Waterlogged Bag",
+        "sector": "E4",
+        "keyRate": "D",
+        "location": {
+            "lat": "4656.643", "lng":"3985.723"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      },
+      {
+        "name": "Waterway Maintenance Kit",
+        "sector": "F5",
+        "keyRate": "-",
+        "location": {
+            "lat": "3878.505", "lng":"4595.724"
+        },
+        "description": null,
+        "place": "land",
+        "icon": "icon_key",
+        "alternative_icon": "$icon.key"
+      }
+]

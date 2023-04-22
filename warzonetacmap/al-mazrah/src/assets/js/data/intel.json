@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Intel test 1",
+		"alias": "intel-test-1",
+		"description": "bla bla",
+		"icon": "$icon.key",
+		"steps": [
+			{
+				"name": "Name 1",
+				"description": "intel 1 desc",
+				"lat": "3721.197", 
+				"lng": "3742.633"
+			},
+			{
+				"name": "Name 2",
+				"description": "Intel 2 desc",
+				"lat": "3821.197", 
+				"lng": "3942.633"
+			},
+			{
+				"name": "Name 3",
+				"description": "Intel 2 desc",
+				"lat": "3565.197", 
+				"lng": "3325.633"
+			},
+			{
+				"name": "name 4",
+				"description": "Intel 2 desc",
+				"lat": "3676.197", 
+				"lng": "3343.633"
+			}
+		]
+	},
+	{
+		"name": "Intel test 2",
+		"alias": "intel-test-2",
+		"description": "bla bla",
+		"icon": "$icon.key",
+		"steps": [
+			{
+				"name": "Name 1.2",
+				"description": "intel 1 desc",
+				"lat": "3929.197", 
+				"lng": "3655.633"
+			},
+			{
+				"name": "Name 2.2",
+				"description": "Intel 2 desc",
+				"lat": "3342.197", 
+				"lng": "3543.633"
+			}
+		]
+	}
+]

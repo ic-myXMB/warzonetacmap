@@ -1,0 +1,212 @@
+[
+    {
+		"name": "UAV Tower",
+		"location": {
+			"lat": "5984.593", "lng": "3389.341"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	},
+	{
+		"name": "UAV Tower",
+		"location": {
+			"lat": "5474.421", "lng": "3017.225"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	},
+	{
+		"name": "UAV Tower",
+		"location": {
+			"lat": "4678.927", "lng": "1770.430"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	},
+	{
+		"name": "UAV Tower",
+		"location": {
+			"lat": "3992.215", "lng": "2581.003"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	},
+	{
+		"name": "UAV Tower",
+		"location": {
+			"lat": "4683.168", "lng": "3668.470"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	},
+	{
+		"name": "UAV Tower",
+		"location": {
+			"lat": "5120.252", "lng": "4179.755"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	},
+	{
+		"name": "UAV Tower",
+		"location": {
+			"lat": "4536.640", "lng": "4811.418"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	},
+	{
+		"name": "UAV Tower",
+		"location": {
+			"lat": "4215.417", "lng": "5174.254"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	},
+	{
+		"name": "UAV Tower",
+		"location": {
+			"lat": "2999.547", "lng": "3854.439"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	},
+	{
+		"name": "UAV Tower",
+		"location": {
+			"lat": "3000.608", "lng": "1890.804"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	},
+	{
+		"name": "UAV Tower",
+		"location": {
+			"lat": "2147.000", "lng": "2831.420"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	},
+	{
+		"name": "UAV Tower",
+		"location": {
+			"lat": "1684.824", "lng": "2468.572"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	},
+	{
+		"name": "UAV Tower",
+		"location": {
+			"lat": "1291.884", "lng": "4908.028"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	},
+	{
+		"name": "UAV Tower",
+		"location": {
+			"lat": "2111.421", "lng": "3981.011"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	},
+	{
+		"name": "UAV Tower",
+		"location": {
+			"lat": "2308.090", "lng": "5319.221"
+		},
+		"description": "Possible location of a UAV tower that could be used by the enemy",
+		"icon": "$icon.uav_tower",
+		"radius": 250,
+		"styles": {
+			"fillColor": "#8d0d0d",
+			"color": "#8d0d0d",
+			"weight": 2
+		}
+	}
+]

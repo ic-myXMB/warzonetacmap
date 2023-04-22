@@ -1,0 +1,1066 @@
+[
+  {
+    "name": "Al-Bagra Fortress Antiquities",
+    "sector": "G8",
+    "keyRate": "C",
+    "location": { "lat": "1309.25", "lng": "4882" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "Ahmed's Grocery Store Office",
+    "sector": "H5",
+    "id": "ahmeds-grocery-store-office",
+    "keyRate": "D",
+    "location": { "lat": "3727.5000", "lng": "5887.2500" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Airport Maintenance Room",
+    "sector": "H6",
+    "id": "airport-maintenance-room",
+    "keyRate": "B",
+    "location": { "lat": "2457.5000", "lng": "5670.2500" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Al Bagra Barrack",
+    "sector": "G8",
+    "id": "al-bagra-barrack",
+    "keyRate": "D",
+    "location": { "lat": "1375.0000", "lng": "4953.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Al Bagra Munitions Storeroom",
+    "sector": "F8",
+    "id": "al-bagra-munitions-storeroom",
+    "keyRate": "D",
+    "location": { "lat": "1344.7500", "lng": "4784.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Al Bagra Officers Quarters",
+    "sector": "G8",
+    "id": "al-bagra-officers-quarters",
+    "keyRate": "C",
+    "location": { "lat": "1315.0000", "lng": "4930.7500" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Al Bagra Underground",
+    "sector": "G8",
+    "id": "al-bagra-underground",
+    "keyRate": "A+",
+    "location": { "lat": "1217.5000", "lng": "4908.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "Algae Covered Toolbox",
+    "sector": "F3",
+    "id": "algae-covered-toolbox",
+    "keyRate": "F",
+    "location": { "lat": "5139.5000", "lng": "4553.0000" },
+    "description": null,
+    "place": "water",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Al Sa'id Shopping Centre",
+    "sector": "D6",
+    "id": "al-said-shopping-center",
+    "keyRate": "F",
+    "location": { "lat": "2974.0000", "lng": "2785.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Al-Safwa Stone block Office",
+    "sector": "C4",
+    "id": "al-safwa-stone-block-office",
+    "keyRate": "B",
+    "location": { "lat": "4465.5000", "lng": "1740.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Al Sharim Elders Room",
+    "sector": "G5",
+    "id": "al-sharim-elders-room",
+    "keyRate": "C",
+    "location": { "lat": "3203.0000", "lng": "5005.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Art Museum",
+    "sector": "F3",
+    "id": "art-museum",
+    "keyRate": "A",
+    "location": { "lat": "5165.5421", "lng": "4193.7773" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "B.C. Toolbox",
+    "sector": "G6",
+    "id": "bc-toolbox",
+    "keyRate": "F",
+    "location": { "lat": "2503.1305", "lng": "5466.9501" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Bank of Adel Top Story Office",
+    "sector": "D7",
+    "id": "bank-of-adel-top-story-office",
+    "keyRate": "C",
+    "location": { "lat": "1692.3423", "lng": "2471.0273" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Bank of Adel 2nd Story Office",
+    "sector": "D7",
+    "id": "bank-of-adel-2nd-story-office",
+    "keyRate": "D",
+    "location": { "lat": "1696.8423", "lng": "2451.0273" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Canal Apartment 103",
+    "sector": "F3",
+    "id": "canal-apartment",
+    "keyRate": "B",
+    "location": { "lat": "5301.0000", "lng": "4492.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Captains Cache",
+    "sector": "E8",
+    "id": "captains-cache",
+    "keyRate": "F",
+    "location": { "lat": "1130.0000", "lng": "3510.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Caretaker's House",
+    "sector": "D7",
+    "id": "caretakers-house",
+    "keyRate": "D",
+    "location": { "lat": "1997.5000", "lng": "3122.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Caretakers Toolbox",
+    "sector": "D7",
+    "id": "caretakers-toolbox",
+    "keyRate": "F",
+    "location": { "lat": "2225.7500", "lng": "3064.7500" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Cavern Boat Dock Shack",
+    "sector": "D5",
+    "id": "cavern-boat-dock-shack",
+    "keyRate": "C",
+    "location": { "lat": "3755.0000", "lng": "2860.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Central Sa'id Top Floor Apartment",
+    "sector": "C6",
+    "id": "central-said-top-floor-apartment",
+    "keyRate": "C",
+    "location": { "lat": "2844.0000", "lng": "2321.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Central Zaya Meeting Room",
+    "sector": "E5",
+    "id": "central-zaya-meeting-room",
+    "keyRate": "C",
+    "location": { "lat": "3212.0000", "lng": "3836.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Channel 7 Editorial Department",
+    "sector": "F2",
+    "id": "channel-7-editorial-department",
+    "keyRate": "A",
+    "location": { "lat": "5659.5000", "lng": "4676.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "Channel 7 Secure Records Room",
+    "sector": "F2",
+    "id": "channel-7-secure-records-room",
+    "keyRate": "D",
+    "location": { "lat": "5759.5000", "lng": "4793.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Chemical Storage Warehouse",
+    "sector": "B4",
+    "id": "chemical-storage-warehouse",
+    "keyRate": "A",
+    "location": { "lat": "4203.0000", "lng": "1471.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Clock Repair Tools",
+    "sector": "G7",
+    "id": "clock-repair-tools",
+    "keyRate": "F",
+    "location": { "lat": "2122.0000", "lng": "4224.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Control Tower",
+    "sector": "G7",
+    "id": "control-tower",
+    "keyRate": "A",
+    "location": { "lat": "1963.0000", "lng": "5485.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "Crane Control Room",
+    "sector": "B3",
+    "id": "crane-control-room",
+    "keyRate": "A",
+    "location": { "lat": "4833.0000", "lng": "1530.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key_green",
+    "relations": {
+      "mission": "Unearthed, Tier 3, White Lotus"
+    }
+  },
+  {
+    "name": "Deckhand's Toolbox",
+    "sector": "E8",
+    "id": "deckhands-toolbox",
+    "keyRate": "B",
+    "location": { "lat": "1126.5000", "lng": "3516.0000" },
+    "description": null,
+    "place": "water",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "DownTown Post Office Secure Room",
+    "sector": "F4",
+    "id": "downtown-post-office-secure-room",
+    "keyRate": "B",
+    "location": { "lat": "4671.0000", "lng": "4496.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "DownTown Post Office",
+    "sector": "F4",
+    "id": "downtown-post-office-secure-room",
+    "keyRate": "A+",
+    "location": { "lat": "4660.0000", "lng": "4516.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "Enfer Back Room",
+    "sector": "D6",
+    "id": "enfer-back-room",
+    "keyRate": "F",
+    "location": { "lat": "2918.0000", "lng": "2734.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Far South Eastern Storage Closet",
+    "sector": "H5",
+    "id": "far-south-eastern-storage-closet",
+    "keyRate": "D",
+    "location": { "lat": "3573.0000", "lng": "5984.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Groundskeepers Shack",
+    "sector": "E7",
+    "id": "groundskeepers-shack",
+    "keyRate": "B",
+    "location": { "lat": "1701.5000", "lng": "3763.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Hafid Ship Bridge Cache",
+    "sector": "B6",
+    "id": "hafid-ship-bridge-cache",
+    "keyRate": "F",
+    "location": { "lat": "3034.5000", "lng": "1129.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "B6 - Hafid Ship First Mate Cache",
+    "sector": "B6",
+    "id": "test",
+    "keyRate": "F",
+    "location": { "lat": "3035.0000", "lng": "1119.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Hydro Island Computer",
+    "sector": "E4",
+    "id": "test",
+    "keyRate": "F",
+    "location": { "lat": "4380.5000", "lng": "3557.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "IHTAQ Warehouse Supply Room",
+    "sector": "C6",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "3079.0000", "lng": "1818.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Kushaak Construction Warehouse",
+    "sector": "B4",
+    "id": "test",
+    "keyRate": "A+",
+    "location": { "lat": "4654.0000", "lng": "1589.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "Longshoreman's Duffle Bag",
+    "sector": "B6",
+    "id": "test",
+    "keyRate": "F",
+    "location": { "lat": "2785.0000", "lng": "1304.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Mawizeh Cell Shop",
+    "sector": "F4",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "4050.5000", "lng": "4361.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Mawizeh Power Control Station",
+    "sector": "G4",
+    "id": "test",
+    "keyRate": "C",
+    "location": { "lat": "4254.5000", "lng": "4861.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Mawizeh Resort Bungalow Room",
+    "sector": "F4",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "3993.0000", "lng": "4644.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Mawizeh Slum Discarded Cache",
+    "sector": "F4",
+    "id": "test",
+    "keyRate": "F",
+    "location": { "lat": "4084.0000", "lng": "4483.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Mawizeh Resort Main Building",
+    "sector": "G5",
+    "id": "test",
+    "keyRate": "A+",
+    "location": { "lat": "3958.0000", "lng": "4867.2500" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key_green",
+    "relations": {
+      "mission": "Clean House, tier 5, White Lotus"
+    }
+  },
+  {
+    "name": "Mountain Top Spotter Shack",
+    "sector": "G5",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "3266.5000", "lng": "5096.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "North Canals Information Booth",
+    "sector": "F3",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "5169.0000", "lng": "4432.7500" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Old Lighthouse Citadel",
+    "sector": "F8",
+    "id": "test",
+    "keyRate": "A+",
+    "location": { "lat": "1533.5000", "lng": "4059.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Omar's Auto Repair",
+    "sector": "D7",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "1748.2475", "lng": "2412.0273" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Police Academy",
+    "sector": "G4",
+    "id": "test",
+    "keyRate": "A",
+    "location": { "lat": "4907.0000", "lng": "5490.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key_green",
+    "relations": {
+      "mission": "Clean House, Tier 5, White Lotus"
+    }
+  },
+  {
+    "name": "Police Academy Locker Master key",
+    "sector": "G5",
+    "id": "test",
+    "keyRate": "C",
+    "location": { "lat": "4714.5000", "lng": "5563.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Police Academy Server Room",
+    "sector": "G5",
+    "id": "test",
+    "keyRate": "C",
+    "location": { "lat": "4726.5000", "lng": "5587.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Police Armory",
+    "sector": "F2",
+    "id": "test",
+    "keyRate": "A+",
+    "location": { "lat": "5626.7500", "lng": "4250.7500" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Police Armory",
+    "sector": "G5",
+    "id": "test",
+    "keyRate": "A+",
+    "location": { "lat": "3981.0872", "lng": "5436.0623" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Police Armory",
+    "sector": "D6",
+    "id": "test",
+    "keyRate": "A+",
+    "location": { "lat": "2819.713", "lng": "2848.877" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Police Locker",
+    "sector": "F2",
+    "id": "test",
+    "keyRate": "A+",
+    "location": { "lat": "5633.0000", "lng": "4226.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Police Locker",
+    "sector": "G5",
+    "id": "test",
+    "keyRate": "A+",
+    "location": { "lat": "3953.1828", "lng": "5437.1469" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Police Locker",
+    "sector": "D6",
+    "id": "test",
+    "keyRate": "A+",
+    "location": { "lat": "2800.875", "lng": "2875.750" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Power Substation Toolbox",
+    "sector": "D7",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "1973.0000", "lng": "2844.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Quarry Worker's Lost Toolbox",
+    "sector": "B4",
+    "id": "test",
+    "keyRate": "F",
+    "location": { "lat": "4722.0000", "lng": "1485.0000" },
+    "description": null,
+    "place": "water",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Retro Fridge",
+    "sector": "H6",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "2409.9723", "lng": "6291.7001" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Rohan Control Room Locker",
+    "sector": "D3",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "5240.5000", "lng": "2705.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Rohan Oil North Guard Shack",
+    "sector": "D3",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "5565.5000", "lng": "2833.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Rohan Oil South Guard Shack",
+    "sector": "D3",
+    "id": "test",
+    "keyRate": "F",
+    "location": { "lat": "4949.5000", "lng": "3182.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Sa'id Mall Security Room",
+    "sector": "D6",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "2949.0000", "lng": "2662.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Sattiq Guest Quarters",
+    "sector": "D4",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "4068.5000", "lng": "2659.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Sattiq Poppy Farm House",
+    "sector": "C4",
+    "id": "test",
+    "keyRate": "A",
+    "location": { "lat": "4205.5000", "lng": "2349.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key_green",
+    "relations": {
+      "mission": "Espionage, Tier 2, Black Mous"
+    }
+  },
+  {
+    "name": "Sawah Crypto Mining Farm Key",
+    "sector": "D8",
+    "id": "test",
+    "keyRate": "B",
+    "location": { "lat": "1598.2031", "lng": "2459.4628" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key_orange",
+    "relations": {
+      "helpful": "Custom Hardware, Tier 2, Black Mous"
+    }
+  },
+  {
+    "name": "Sawah Hotel Room 302",
+    "sector": "D7",
+    "id": "test",
+    "keyRate": "F",
+    "location": { "lat": "1651.7031", "lng": "2636.9628" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key_green",
+    "relations": {
+      "mission": "Good Fortune, Tier 3, Legion"
+    }
+  },
+  {
+    "name": "Sawah Hotel Room 303",
+    "sector": "D7",
+    "id": "test",
+    "keyRate": "F",
+    "location": { "lat": "1609.7031", "lng": "2649.4628" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Scientist's Locker",
+    "sector": "F5",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "3484.0000", "lng": "4038.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "South Al Bagra Top Floor Bedroom",
+    "sector": "G8",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "1326.8212", "lng": "5107.0508" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "South Bank Apartment",
+    "sector": "D6",
+    "id": "test",
+    "keyRate": "F",
+    "location": { "lat": "2472.5000", "lng": "2595.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "South Zaya Scientist Apartment",
+    "sector": "E6",
+    "id": "test",
+    "keyRate": "C",
+    "location": { "lat": "2886.0000", "lng": "3877.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Special Forces Dead Drop",
+    "sector": "G2",
+    "id": "test",
+    "keyRate": "F",
+    "location": { "lat": "5896.5000", "lng": "5007.2500" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Special Ops Relay Station",
+    "sector": "B6",
+    "id": "test",
+    "keyRate": "B",
+    "location": { "lat": "2758.5000", "lng": "1560.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Taraq River Supply Shack",
+    "sector": "E2",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "6248.0000", "lng": "3915.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Taraq Smuggler's Office",
+    "sector": "E2",
+    "id": "test",
+    "keyRate": "C",
+    "location": { "lat": "6266.5000", "lng": "3818.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Taraq Tunnels Workbench Cache",
+    "sector": "E2",
+    "id": "test",
+    "keyRate": "F",
+    "location": { "lat": "6020.5000", "lng": "3661.2500" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Tower Conference Room",
+    "sector": "G7",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "2004.0000", "lng": "5483.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Traveller's Luggage",
+    "sector": "E2",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "2356.5000", "lng": "5467.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Under Freeway East Warehouse",
+    "sector": "G4",
+    "id": "test",
+    "keyRate": "B",
+    "location": { "lat": "4146.7500", "lng": "5525.2500" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "U.S. Embassy",
+    "sector": "G3",
+    "id": "test",
+    "keyRate": "A+",
+    "location": { "lat": "5460.0000", "lng": "4812.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "Weapons Repair Kit",
+    "sector": "D5",
+    "id": "test",
+    "keyRate": "F",
+    "location": { "lat": "3950.5000", "lng": "2430.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Yum Yum Burger Back Room",
+    "sector": "G3",
+    "id": "test",
+    "keyRate": "C",
+    "location": { "lat": "5282.5000", "lng": "4931.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Zarqwa Market Storage",
+    "sector": "E4",
+    "id": "test",
+    "keyRate": "D",
+    "location": { "lat": "4302.0000", "lng": "3614.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Zarqwa Red Village Appartment",
+    "sector": "E4",
+    "id": "test",
+    "keyRate": "B",
+    "location": { "lat": "4331.5000", "lng": "3754.0000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+    
+  },
+  {
+    "name": "Zaya Radar Dome",
+    "sector": "E5",
+    "id": "test",
+    "keyRate": "A",
+    "location": { "lat": "3432.0000", "lng": "3921.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "Sunken Ship Thief's Cache",
+    "sector": "E8",
+    "id": "test",
+    "keyRate": "A+",
+    "location": { "lat": "1102.5000", "lng": "3442.5000" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key_orange",
+    "relations": {
+      "helpful": "Golden Skull (cost 25 000), maybe part of Easter egg."
+    }
+  },
+  {
+    "name": "The Lieutenant's Briefcase",
+    "sector": "E8",
+    "id": "test",
+    "keyRate": "-",
+    "location": { "lat": "5024.383", "lng": "3740.320" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "The Architect's Toolbox",
+    "sector": "E8",
+    "id": "test",
+    "keyRate": "-",
+    "location": { "lat": "4952.997", "lng": "3736.838" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "West Zarqwa Safe House",
+    "sector": "E8",
+    "id": "test",
+    "keyRate": "-",
+    "location": { "lat": "4294.232", "lng": "3345.019" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "Rohan Utility Tunnel Locker",
+    "sector": "E8",
+    "id": "test",
+    "keyRate": "-",
+    "location": { "lat": "5282.890", "lng": "2857.504" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "Captain Silver's Briefcase",
+    "sector": "D4",
+    "id": "test",
+    "keyRate": "-",
+    "location": { "lat": "3941.861", "lng": "2851.818" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "Crash Site Weapon Case",
+    "sector": "D5",
+    "id": "test",
+    "keyRate": "-",
+    "location": { "lat": "3910.365", "lng": "2847.702" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "SC Special Forces Footlocker",
+    "sector": "D5",
+    "id": "test",
+    "keyRate": "-",
+    "location": { "lat": "3594.577", "lng": "2767.616" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  },
+  {
+    "name": "Crash Site Weapon Case [Under Pipeline]",
+    "sector": "D5",
+    "id": "test",
+    "keyRate": "-",
+    "location": { "lat": "3595.800", "lng": "2782.860" },
+    "description": null,
+    "place": "land",
+    "icon": "$icon.key"
+  }
+]

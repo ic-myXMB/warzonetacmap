@@ -1,0 +1,62 @@
+[
+  {
+      "name": "Dead drop - Zaya Observatory",
+      "sector": "F5",
+      "location": {
+          "lat": "3430.584",
+          "lng": "4204.666"
+      },
+      "description": null,
+      "icon": "$icon.dead_drop"
+  },
+  {
+      "name": "Dead drop - Al Bagra",
+      "sector": "G8",
+      "location": {
+          "lat": "1291.822",
+          "lng": "5109.211"
+      },
+      "description": null,
+      "icon": "$icon.dead_drop"
+  },
+  {
+      "name": "Dead drop - Sattiq Cave",
+      "sector": "D4",
+      "location": {
+          "lat": "4100.605",
+          "lng": "2670.324"
+      },
+      "description": null,
+      "icon": "$icon.dead_drop"
+  },
+  {
+      "name": "Dead drop - Ahkdar Village",
+      "sector": "F6",
+      "location": {
+          "lat": "2766.443",
+          "lng": "4574.194"
+      },
+      "description": null,
+      "icon": "$icon.dead_drop"
+  },
+  {
+      "name": "Dead drop - Zarqwa HydroElectric",
+      "sector": "E4",
+      "location": {
+          "lat": "4231.324",
+          "lng": "3559.224"
+      },
+      "description": null,
+      "icon": "$icon.dead_drop"
+  },
+  {
+      "name": "Dead drop - Al Sharim Pass",
+      "sector": "G6",
+      "location": {
+          "lat": "3183.739",
+          "lng": "5035.073"
+      },
+      "description": null,
+      "icon": "$icon.dead_drop"
+  }
+]

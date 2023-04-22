@@ -1,0 +1,16 @@
+[
+    {
+		"name": "UAV Tower",
+		"lat": 3230.75,
+		"lng": 5035.25,
+		"description": "",
+		"icon": "$icon.weapon_case",
+		"radius": 340,
+		"styles": {
+			"fillColor": "#f5bb47",
+			"color": "#f5bb47",
+			"weight": 2,
+			"dashArray": [10, 10]
+		}
+	}
+]

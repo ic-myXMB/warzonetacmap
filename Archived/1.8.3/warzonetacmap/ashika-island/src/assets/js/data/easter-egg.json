@@ -1,0 +1,252 @@
+[
+	{
+		"name": "Feed Fish", 
+		"points": [
+			{
+				"name": "Feed Fish",
+				"sector": null,
+				"location": {
+					"lat": "2360.405", "lng":"3617.772"
+				},
+				"description": "To complete the EE, you'll need to follow these steps:<br>First, gather explosive equipment like grenades, semtex, or C4.<br>Next, locate schools of fish in any of the bodies of water located on or around Ashika Island.<br>Then, throw your explosive into the water to cook the fish, and you'll be able to harvest them.<br>After you've collected the fish, head over to this place and look for the hungry seal.<br>Interact with the seal to feed it, and the seal will reward you by spitting out other explosives such as Claymores or Killstreaks like Precision Airstrikes. ",
+				"icon": "$icon.easterEgg"
+			}
+		],
+		"lines": []
+	},
+	{
+		"name": "Power Plant Secret Room", 
+		"points": [
+			{
+				"name": "Power Plant Secret Room",
+				"sector": null,
+				"location": {
+					"lat": "4467.208", "lng":"4367.023"
+				},
+				"preview": "src/assets/images/content/easter-egg/easter-egg-power-plant-secret-room.png",
+				"description": "You'll need to hit four switches in a specific order to unlock this additional loot room.<br>The first switch you need to hit is on the wall to your right. <br>There are three more switches on the walls, and you'll want to hit them in the order you reach them.",
+				"icon": "$icon.easterEgg"
+			}
+		],
+		"lines": []
+	},
+	{
+		"name": "Mysterious call' radios", 
+		"points": [
+			{
+				"name": "Starting radio spawn - Castle",
+				"sector": null,
+				"location": {
+					"lat": "4355.297", "lng":"5317.816"
+				},
+				"human_location": "Desk under white noise TV, upper floor",
+				"icon": "$icon.radio"
+			},
+            {
+				"name": "Starting radio spawn - Power Plant",
+				"sector": null,
+				"location": {
+					"lat": "4272.071", "lng":"4242.524"
+				},
+				"human_location": "Workbench under window, lvl 2 control room",
+				"icon": "$icon.radio"
+			},
+            {
+				"name": "Radio spawn - Greenhouses",
+				"sector": null,
+				"location": {
+					"lat": "4649.934", "lng":"2817.113"
+				},
+				"human_location": "Boxes on pallet truck, ground floor",
+				"icon": "$icon.radio"
+			},
+            {
+				"name": "Radio spawn - Ferry",
+				"sector": null,
+				"location": {
+					"lat": "3835.347", "lng":"2786.001"
+				},
+				"human_location": "Tourist counter next to ATM, ground floor",
+				"icon": "$icon.radio"
+			},
+            {
+				"name": "Radio spawn - Sushi Restaurant",
+				"sector": null,
+				"location": {
+					"lat": "3097.559", "lng":"4015.993"
+				},
+				"human_location": "The bar, ground floor",
+				"icon": "$icon.radio"
+			},
+            {
+				"name": "Radio spawn - Residential",
+				"sector": null,
+				"location": {
+					"lat": "5003.371", "lng":"5007.064"
+				},
+				"human_location": "Workbench in garage",
+				"icon": "$icon.radio"
+			},
+            {
+				"name": "Radio spawn - Wrek",
+				"sector": null,
+				"location": {
+					"lat": "3527.206", "lng":"6473.512"
+				},
+				"human_location": "Forklift",
+				"icon": "$icon.radio"
+			},
+            {
+				"name": "Radio spawn - Aquarium",
+				"sector": null,
+				"location": {
+					"lat": "2185.281", "lng":"3620.796"
+				},
+				"human_location": "Low wall around central exhibit, ground floor",
+				"icon": "$icon.radio"
+			},
+            {
+				"name": "Radio spawn - Port",
+				"sector": null,
+				"location": {
+					"lat": "2455.743", "lng":"5295.894"
+				},
+				"human_location": "Wooden crates on catwalk",
+				"icon": "$icon.radio"
+			}
+		],
+		"lines": []
+	},
+	{
+		"name": "Mysterious Item", 
+		"points": [
+			{
+				"name": "Display Stand",
+				"sector": null,
+				"location": {
+					"lat": "3890.416", "lng":"4882.719"
+				},
+				"description": "To complete Easter Egg, find and pick up all three masks, then place them on the Display Stand near Tsuki Castle's main building. Kill all agents that spawn in the room during the 'Final Test', and when the last enemy is defeated, your squad will be rewarded with a Loadout Drop Marker and free loot. ",
+				"icon": "$icon.easterEgg"
+			},
+			{
+				"name": "Red Mask - Tsuki Castle",
+				"sector": null,
+				"location": {
+					"lat": "3507.530", "lng":"4923.347"
+				},
+				"human_location": "Top floor, on the computer desk",
+				"icon": "$icon.mask_red"
+			},
+			{
+				"name": "Red Mask - Tsuki Castle",
+				"sector": null,
+				"location": {
+					"lat": "3560.454", "lng":"4848.039"
+				},
+				"human_location": "Second floor by this desk to the west",
+				"icon": "$icon.mask_red"
+			},
+			{
+				"name": "Red Mask - Tsuki Castle",
+				"sector": null,
+				"location": {
+					"lat": "3605.239", "lng":"5034.646"
+				},
+				"human_location": "Second floor, through the door to the northeast, inside a red crate",
+				"icon": "$icon.mask_red"
+			},
+			{
+				"name": "Red Mask - Tsuki Castle",
+				"sector": null,
+				"location": {
+					"lat": "3566.625", "lng":"4928.271"
+				},
+				"human_location": "On the ground floor, on a desk in the central room of the castle",
+				"icon": "$icon.mask_red"
+			},
+			{
+				"name": "Red Mask - Tsuki Castle",
+				"sector": null,
+				"location": {
+					"lat": "3722.981", "lng":"4797.770"
+				},
+				"human_location": "In the building’s armory, off to the side to the right of the lamp",
+				"icon": "$icon.mask_red"
+			},
+			{
+				"name": "Green Mask",
+				"sector": null,
+				"location": {
+					"lat": "4146.399", "lng":"5086.896"
+				},
+				"human_location": "In a small building next to the H-shaped building, on a chair just inside the door",
+				"icon": "$icon.mask_green"
+			},
+			{
+				"name": "Green Mask",
+				"sector": null,
+				"location": {
+					"lat": "4402.050", "lng":"5241.779"
+				},
+				"human_location": "On the bulldozer treads beside the H-shaped building",
+				"icon": "$icon.mask_green"
+			},
+			{
+				"name": "Green Mask",
+				"sector": null,
+				"location": {
+					"lat": "4407.648", "lng":"5357.475"
+				},
+				"human_location": "On a barrel at the northwest end of the H-shaped building",
+				"icon": "$icon.mask_green"
+			},
+			{
+				"name": "Green Mask",
+				"sector": null,
+				"location": {
+					"lat": "4403.804", "lng":"5376.408"
+				},
+				"human_location": "Hanging from the side of a locker upstairs in the H-shaped building",
+				"icon": "$icon.mask_green"
+			},
+			{
+				"name": "Green Mask",
+				"sector": null,
+				"location": {
+					"lat": "4268.378", "lng":"5558.617"
+				},
+				"human_location": "On a wooden crate in the southeast room of the H-shaped building.",
+				"icon": "$icon.mask_green"
+			},
+			{
+				"name": "Kitsune Fox Mask",
+				"sector": null,
+				"location": {
+					"lat": "3800.543", "lng":"5423.191"
+				},
+				"human_location": "On the rim of the well.",
+				"icon": "$icon.mask"
+			},
+			{
+				"name": "Kitsune Fox Mask",
+				"sector": null,
+				"location": {
+					"lat": "3609.715", "lng":"5394.875"
+				},
+				"human_location": "Leaning against the Sakura tree.",
+				"icon": "$icon.mask"
+			},
+			{
+				"name": "Kitsune Fox Mask",
+				"sector": null,
+				"location": {
+					"lat": "3921.195", "lng":"5633.717"
+				},
+				"human_location": "On top of a wooden crate in the L-shaped building.",
+				"icon": "$icon.mask"
+			}
+		],
+		"lines": []
+	}
+]

@@ -1,0 +1,32 @@
+[
+    {
+		"name": "Game Machine",
+        "sector": null,
+		"location": {
+            "lat": "3975.163", "lng": "3370.035"
+        },
+		"description": "The game machine is a casino-like device found inside gas stations that grants players a random item and 100 XP in exchange for one Sea Treasure Token.",
+		"icon": "icon_game_machine",
+		"alternative_icon": "$icon.game_machine"
+	},
+    {
+		"name": "Game Machine",
+        "sector": null,
+		"location": {
+            "lat": "4788.148", "lng": "6097.319"
+        },
+		"description": "The game machine is a casino-like device found inside gas stations that grants players a random item and 100 XP in exchange for one Sea Treasure Token.",
+		"icon": "icon_game_machine",
+		"alternative_icon": "$icon.game_machine"
+	},
+    {
+		"name": "Game Machine",
+        "sector": null,
+		"location": {
+            "lat": "2759.281", "lng": "3754.422"
+        },
+		"description": "The game machine is a casino-like device found inside gas stations that grants players a random item and 100 XP in exchange for one Sea Treasure Token.",
+		"icon": "icon_game_machine",
+		"alternative_icon": "$icon.game_machine"
+	}
+]

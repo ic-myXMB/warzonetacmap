@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Pyro Commander",
+        "location": {
+            "lat": "3112.333", "lng": "1090.794"
+        },
+        "description": null,
+        "icon": "$icon.bossPyro"
+    },
+    {
+        "name": "Pyro Commander",
+        "location": {
+            "lat": "5495.700", "lng": "4813.408"
+        },
+        "description": null,
+        "icon": "$icon.bossPyro"
+    },
+    {
+        "name": "Pyro Commander",
+        "location": {
+            "lat": "4681.047", "lng": "4481.643"
+        },
+        "description": null,
+        "icon": "$icon.bossPyro"
+    },
+    {
+        "name": "Pyro Commander",
+        "location": {
+            "lat": "1958.130", "lng": "5475.691"
+        },
+        "description": null,
+        "icon": "$icon.bossPyro"
+    },
+    {
+        "name": "Pyro Commander",
+        "location": {
+            "lat": "4655.884", "lng": "1591.327"
+        },
+        "description": null,
+        "icon": "$icon.bossPyro"
+    }
+]

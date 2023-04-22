@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Entrance to the caves",
+        "location": {
+            "lat": "5050.864",
+            "lng": "3728.221"
+        },
+        "description": "This is a potential closed entrance to the caves.",
+        "icon": "$icon.cave_entance"
+    },
+    {
+        "name": "Entrance to the caves",
+        "location": {
+            "lat": "4962.475",
+            "lng": "3631.347"
+        },
+        "description": "This is a potential closed entrance to the caves.",
+        "icon": "$icon.cave_entance"
+    },
+    {
+        "name": "Entrance to the caves",
+        "location": {
+            "lat": "4904.846",
+            "lng": "3643.014"
+        },
+        "description": "This is a potential closed entrance to the caves.",
+        "icon": "$icon.cave_entance"
+    }
+]

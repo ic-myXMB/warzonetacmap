@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Safe",
+    "location": { "lat": "5153.5", "lng": "2273" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "4998.5", "lng": "2381" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "5585.5", "lng": "3020" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "5449", "lng": "2965" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "4886.5", "lng": "2939.5" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "5209.5", "lng": "3762.5" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "6180.5", "lng": "4070.5" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "4858.5", "lng": "5359" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2816", "lng": "5281.5" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2536.5", "lng": "5453.5" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "1847", "lng": "5370.5" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2679.5", "lng": "4284" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2014.5", "lng": "3796.5" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "1444.75", "lng": "3092" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "3312", "lng": "1622.5" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "3187.5", "lng": "1744" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "3695.5", "lng": "2015.5" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "3964", "lng": "1994.5" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "4280.5", "lng": "1502" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "4533", "lng": "4533" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "4596", "lng": "1450.5" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "3535", "lng": "5032" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "5235", "lng": "3581" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "3146", "lng": "1835" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2372", "lng": "3391" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2319", "lng": "3229.5" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "5329.4926", "lng": "2787.5044" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "1493", "lng": "2983" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "1688.25", "lng": "2539" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2754.359", "lng": "1994.080" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2346.329", "lng": "5390.267" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2952.000", "lng": "5634.000" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "1977.218", "lng": "5501.984" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2318.168", "lng": "4793.101" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "3058.306", "lng": "4912.474" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "6122.759", "lng": "3590.968" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "5362.490", "lng": "2947.664" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "4680.198", "lng": "3510.555" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "4437.335", "lng": "3520.302" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "3180.88", "lng": "5396.040" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "3202.459", "lng": "5047.517" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "5615.101", "lng": "3652.699" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "4521.276", "lng": "1652.675" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "4487.515", "lng": "1551.392" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "1453.120", "lng": "2794.960" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2514.733", "lng": "5475.393" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "5591.858", "lng": "3263.764" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "1297.918", "lng": "4831.555" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2942.206", "lng": "2914.806" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "5848.083", "lng": "4767.337" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "5978.990", "lng": "3694.936" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "4698.880", "lng": "3627.519" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "4646.896", "lng": "3780.223" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "5744.520", "lng": "4188.353" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "5583.240", "lng": "4811.312" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2075.000", "lng": "2865.000" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2499.417", "lng": "2409.989" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2527.000", "lng": "2641.000" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "6336.861", "lng": "3604.910" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "6115.539", "lng": "3515.953" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2989.176", "lng": "2383.624" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "4467.854", "lng": "2485.834" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2736.774", "lng": "4709.373" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2741.937", "lng": "2511.024" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "3930.453", "lng": "6111.524" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "1859.028", "lng": "4748.524" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2061.497 ", "lng": "4031.209" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2574.840", "lng": "3373.284" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2837.788", "lng": "4977.517" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "3096.328", "lng": "4661.113" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2464.751", "lng": "2505.379" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "3799.310", "lng": "26191.607" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "2852.860", "lng": "3380.106" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  },
+  {
+    "name": "Safe",
+    "location": { "lat": "3356.259", "lng": "1820.943" },
+    "description": "Potential spawn location of the safe",
+    "icon": "$icon.safe"
+  }
+]

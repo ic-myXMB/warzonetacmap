@@ -13,7 +13,7 @@ For simple example:
 
 - While I kept most hyperlink linkages existing, there were a few that needed to be changed as to not link to the site when selecting the diff maps, but besides that I tried to keep all other existing linkages intact as such suited my purposes while still keeping the majority of this as it was original.
 
-- While using the maps both either on the online site in the past and or while using my offline variant initially I personally desired to see a legend on the map so as to know the icons easily especially say when viewing the map and having the menu closed and as such while I was making the minor changes on the 1.6.3 variant I opted to add legends to the maps for my offline localhost usages. I also then added such to the pre-existing archived 1.6.2 variant. Now done also on 1.7.0 variant.
+- While using the maps both either on the online site in the past and or while using my offline variant initially I personally desired to see a legend on the map so as to know the icons easily especially say when viewing the map and having the menu closed and as such while I was making the minor changes on the 1.6.3 variant I opted to add legends to the maps for my offline localhost usages. I also then added such to the pre-existing archived 1.6.2 variant. Now done also on 1.7.0 variant. Now done also on 1.8.3 variant.
 
 
 Note: 

@@ -1,0 +1,154 @@
+[
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "5908.324", "lng": "3786.721"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "5864.976", "lng": "5235.474"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "3186.466", "lng": "2239.379"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "4391.592", "lng": "4613.449"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "2732.614", "lng": "3853.025"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "3774.250", "lng": "2462.935"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "2218.261", "lng": "5537.125"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "2464.495", "lng": "4835.736"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "2327.348", "lng": "5852.279"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "2910.954", "lng": "4295.594"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "4915.752", "lng": "2759.221"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "2675.682", "lng": "2088.351"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "4142.800", "lng": "3103.715"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "3925.906", "lng": "4460.721"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "4934.433", "lng": "1754.465"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "2484.449", "lng": "3678.660"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "3278.811", "lng": "4305.175"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "4130.615", "lng": "3645.102"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	},
+	{
+		"name": "Exfil",
+		"location": {
+			"lat": "2926.477", "lng": "4642.387"
+		},
+		"description": "One of three exits for players that appear randomly each match",
+		"icon": "$icon.exfil"
+	}
+]

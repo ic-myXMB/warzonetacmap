@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Rohan Oil",
+    "location": { "lat": 5299, "lng": 2912 },
+    "labelType": "main"
+  },
+  {
+    "title": "Taraq Village",
+    "location": { "lat": 6084, "lng": 3608 },
+    "labelType": "main"
+  },
+  {
+    "title": "AL Mazrah City",
+    "location": { "lat": 5184, "lng": 4744 },
+    "labelType": "main"
+  },
+  {
+    "title": "Mawizeh Marshlands",
+    "location": { "lat": 4176, "lng": 4789 },
+    "labelType": "main"
+  },
+  {
+    "title": "Al Sharim Pass",
+    "location": { "lat": 3282, "lng": 4994 },
+    "labelType": "main"
+  },
+  {
+    "title": "Zaya Observatory",
+    "location": { "lat": 3186, "lng": 3856 },
+    "labelType": "main"
+  },
+  {
+    "title": "Ahkdar Village",
+    "location": { "lat": 2724, "lng": 4454 },
+    "labelType": "main"
+  },
+  {
+    "title": "Al Malik Airport",
+    "location": { "lat": 2336, "lng": 5474 },
+    "labelType": "main"
+  },
+  {
+    "title": "Al Bagra Fortress",
+    "location": { "lat": 1370, "lng": 4892 },
+    "labelType": "main"
+  },
+  {
+    "title": "Sarif Bay",
+    "location": { "lat": 2062, "lng": 3970 },
+    "labelType": "main"
+  },
+  {
+    "title": "Al Samman Cemetery",
+    "location": { "lat": 2166, "lng": 3006 },
+    "labelType": "main"
+  },
+  {
+    "title": "Sawah Village",
+    "location": { "lat": 1622, "lng": 2550 },
+    "labelType": "main"
+  },
+  {
+    "title": "Sa'id City",
+    "location": { "lat": 2954, "lng": 2488 },
+    "labelType": "main"
+  },
+  {
+    "title": "Halid Port",
+    "location": { "lat": 3136, "lng": 1720 },
+    "labelType": "main"
+  },
+  {
+    "title": "Sattiq Cave Complex",
+    "location": { "lat": 3926, "lng": 2684 },
+    "labelType": "main"
+  },
+  {
+    "title": "Al-Safwa Quarry",
+    "location": { "lat": 4618, "lng": 1570 },
+    "labelType": "main"
+  },
+  {
+    "title": "Oasis",
+    "location": { "lat": 6468, "lng": 2820 },
+    "labelType": "second"
+  },
+  {
+    "title": "Western Foothills",
+    "location": { "lat": 5043.159, "lng": 2029.403 },
+    "labelType": "second"
+  },
+  {
+    "title": "North Industrial",
+    "location": { "lat": 6072.961, "lng": 4331.86 },
+    "labelType": "second"
+  },
+  {
+    "title": "Western Outskirts",
+    "location": { "lat": 5221.562, "lng": 3769.484 },
+    "labelType": "second"
+  },
+  {
+    "title": "Eastern Outskirts",
+    "location": { "lat": 5299.912, "lng": 5317.323 },
+    "labelType": "second"
+  },
+  {
+    "title": "Southern Outskirts",
+    "location": { "lat": 4640.035, "lng": 4624.365 },
+    "labelType": "second"
+  },
+  {
+    "title": "East Suburbs",
+    "location": { "lat": 3806.047, "lng": 5977.2 },
+    "labelType": "second"
+  },
+  {
+    "title": "Northwest Mountain",
+    "location": { "lat": 3612.813, "lng": 3433.36 },
+    "labelType": "second"
+  },
+  {
+    "title": "Northwest Mountain",
+    "location": { "lat": 3612.813, "lng": 3433.36 },
+    "labelType": "second"
+  },
+  {
+    "title": "Zarqwa Hydroelectric",
+    "location": { "lat": 4468, "lng": 3604 },
+    "labelType": "main"
+  }
+]

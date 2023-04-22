@@ -1,0 +1,170 @@
+[
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "1413.669", "lng": "3331.608"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "4561.233", "lng": "2250.226"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "5097.355", "lng": "5212.034"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "1789.326", "lng": "5227.575"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "5406.561", "lng": "5461.757"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "3753.351", "lng": "5559.289"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "6658.393", "lng": "3861.064"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "5616.725", "lng": "2490.366"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "3320.203", "lng": "1301.296"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "1625.111", "lng": "4267.147"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "2046.162", "lng": "2203.748"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "2613.071", "lng": "5654.617"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "1935.212", "lng": "3303.051"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "3453.3171", "lng": "6303.04"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "4455.586", "lng": "5683.910"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "4339.497", "lng": "3167.848"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "3460.757", "lng": "2325.213"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "6171.000", "lng": "3249.000"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "5335.083", "lng": "1923.914"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "2632.995", "lng": "2993.429"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	},
+	{
+		"name": "Spawn",
+		"location": {
+			"lat": "5102.483", "lng": "1535.836"
+		},
+		"description": null,
+		"icon": "$icon.spawn"
+	}
+]	
