@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Police",
+        "location" : {
+            "lat": "3978.959",
+            "lng": "5441.930"
+        },
+        "sector": "G5",
+        "description": null,
+        "icon": "icon_police"
+    },
+    {
+        "name": "Police",
+        "location" : {
+            "lat": "2816.891",
+            "lng": "2847.757"
+        },
+        "sector": "D6",
+        "description": null,
+        "icon": "icon_police"
+    },
+    {
+        "name": "Police",
+        "location" : {
+            "lat": "5623.595",
+            "lng": "4250.118"
+        },
+        "sector": "D6",
+        "description": null,
+        "icon": "icon_police"
+    }
+]

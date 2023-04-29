@@ -1,0 +1,436 @@
+[
+	{
+		"name": "Stronghold - C3",
+		"lat": "5049.00",
+		"lng": "1717.50",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - E2",
+		"lat": "6268.50",
+		"lng": "3817.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - E2.2",
+		"lat": "6080.00",
+		"lng": "3493.50",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - E2.2",
+		"lat": "6173.50",
+		"lng": "3563.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - D3",
+		"lat": "5356.00",
+		"lng": "2780.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - D3.2",
+		"lat": "5010.00",
+		"lng": "2748.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - D3.3",
+		"lat": "4927.00",
+		"lng": "3005.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - D3.3",
+		"lat": "4927.00",
+		"lng": "3005.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - D3.4",
+		"lat": "5388.00",
+		"lng": "2943.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - B4",
+		"lat": "4505.00",
+		"lng": "1532.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G2",
+		"lat": "6144.50",
+		"lng": "4843.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - F3",
+		"lat": "5560.00",
+		"lng": "4317.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G3",
+		"lat": "5218.00",
+		"lng": "5076.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G4",
+		"lat": "4668.00",
+		"lng": "5348.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G4",
+		"lat": "4614.50",
+		"lng": "4810.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - F4",
+		"lat": "4250.00",
+		"lng": "4670.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - E4",
+		"lat": "4608.00",
+		"lng": "3590.50",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - F2",
+		"lat": "5712.00",
+		"lng": "4131.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - E4",
+		"lat": "4339.50",
+		"lng": "3795.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G4",
+		"lat": "4499.00",
+		"lng": "5350.50",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G2",
+		"lat": "5675.50",
+		"lng": "4849.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - F5",
+		"lat": "3873.50",
+		"lng": "4593.50",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G3",
+		"lat": "5530.00",
+		"lng": "5376.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - F4",
+		"lat": "4772.50",
+		"lng": "4180.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G4",
+		"lat": "4430.00",
+		"lng": "5475.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - E4",
+		"lat": "4442.50",
+		"lng": "3368.50",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G4",
+		"lat": "4106.00",
+		"lng": "5216.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G3",
+		"lat": "5098.00",
+		"lng": "5285.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - C5",
+		"lat": "3309.00",
+		"lng": "1622.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - C4",
+		"lat": "4101.00",
+		"lng": "2367.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - D4",
+		"lat": "4159.00",
+		"lng": "2651.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - D5",
+		"lat": "3879.50",
+		"lng": "2693.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - C6",
+		"lat": "2926.50",
+		"lng": "2382.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - C5",
+		"lat": "3501.00",
+		"lng": "1793.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - C5",
+		"lat": "3356.00",
+		"lng": "2187.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - C6",
+		"lat": "3031.00",
+		"lng": "1702.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - D6",
+		"lat": "2949.75",
+		"lng": "2457.25",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - D5",
+		"lat": "3429.25",
+		"lng": "2936.50",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - F5",
+		"lat": "3427.50",
+		"lng": "4165.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - E5",
+		"lat": "3203.00",
+		"lng": "3839.50",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - F6",
+		"lat": "2721.75",
+		"lng": "4706.50",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - F6",
+		"lat": "2609.00",
+		"lng": "4257.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G6",
+		"lat": "3082.50",
+		"lng": "5091.50",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - F5",
+		"lat": "3308.00",
+		"lng": "4736.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G5",
+		"lat": "3234.00",
+		"lng": "5077.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - F6",
+		"lat": "2820.50",
+		"lng": "4481.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - C7",
+		"lat": "1709.00",
+		"lng": "2343.50",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - D8",
+		"lat": "1561.00",
+		"lng": "2684.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - D7",
+		"lat": "1634.50",
+		"lng": "2652.00",
+		"description": null,
+		"icon": "icon_stronghold_lootable"
+	},
+	{
+		"name": "Stronghold - G8",
+		"lat": "1352.50",
+		"lng": "4805.50",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G8",
+		"lat": "1235.50",
+		"lng": "5056.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G7",
+		"lat": "2283.00",
+		"lng": "5210.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - E7",
+		"lat": "1995.00",
+		"lng": "3834.25",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - F7",
+		"lat": "2099.00",
+		"lng": "4426.50",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G7",
+		"lat": "2400.00",
+		"lng": "5155.50",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - E7",
+		"lat": "2143.00",
+		"lng": "3974.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - F2",
+		"lat": "6265.00",
+		"lng": "4518.00",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - F6",
+		"lat": "2643.00",
+		"lng": "4115.5",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - D6",
+		"lat": "3129.5475",
+		"lng": "2943.3048",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - F8",
+		"lat": "1431.353",
+		"lng": "4604.875",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G5",
+		"lat": "3976.587",
+		"lng": "5437.716",
+		"description": null,
+		"icon": "icon_stronghold"
+	},
+	{
+		"name": "Stronghold - G5",
+		"lat": "3938.232",
+		"lng": "2642.457",
+		"description": null,
+		"icon": "icon_stronghold"
+	}
+]

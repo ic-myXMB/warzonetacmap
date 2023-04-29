@@ -1,0 +1,44 @@
+[
+    {
+		"name": "Weapon Case",
+		"lat": 4659.834,
+		"lng": 4517.352,
+		"description": "Possible location of the weapon case. To get it, you will have to kill the boss Pyro or Jager. You will receive a reward for each of the 7 evacuated cases",
+		"icon": "$icon.weapon_case",
+		"radius": 160,
+		"styles": {
+			"fillColor": "#f5bb47",
+			"color": "#f5bb47",
+			"weight": 2,
+			"dashArray": [10, 10]
+		}
+	},
+	{
+		"name": "Weapon Case",
+		"lat": 2029.347,
+		"lng":5447.980,
+		"description": "Possible location of the weapon case. To get it, you will have to kill the boss Pyro or Jager. You will receive a reward for each of the 7 evacuated cases",
+		"icon": "$icon.weapon_case",
+		"radius": 160,
+		"styles": {
+			"fillColor": "#f5bb47",
+			"color": "#f5bb47",
+			"weight": 2,
+			"dashArray": [10, 10]
+		}
+	},
+	{
+		"name": "Weapon Case",
+		"lat": 5461.693,
+		"lng":4788.174,
+		"description": "Possible location of the weapon case. To get it, you will have to kill the boss Pyro or Jager. You will receive a reward for each of the 7 evacuated cases",
+		"icon": "$icon.weapon_case",
+		"radius": 160,
+		"styles": {
+			"fillColor": "#f5bb47",
+			"color": "#f5bb47",
+			"weight": 2,
+			"dashArray": [10, 10]
+		}
+	}
+]

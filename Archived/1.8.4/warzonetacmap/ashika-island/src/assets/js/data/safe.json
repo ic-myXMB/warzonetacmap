@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Safe",
+        "sector": null,
+        "location": {
+            "lat": "3806.939", "lng": "6169.128"
+        },
+        "description": "Potential spawn location of the safe",
+        "icon": "icon_safe",
+        "alternative_icon": "$icon.safe"
+    },
+    {
+        "name": "Safe",
+        "sector": null,
+        "location": {
+            "lat": "3092.296", "lng": "5991.611"
+        },
+        "description": "Potential spawn location of the safe",
+        "icon": "icon_safe",
+        "alternative_icon": "$icon.safe"
+    },
+    {
+        "name": "Safe",
+        "sector": null,
+        "location": {
+            "lat": "2685.657", "lng": "5150.763"
+        },
+        "description": "Potential spawn location of the safe",
+        "icon": "icon_safe",
+        "alternative_icon": "$icon.safe"
+    },
+    {
+        "name": "Safe",
+        "sector": null,
+        "location": {
+            "lat": "2887.034", "lng":"4579.857"
+        },
+        "description": "Potential spawn location of the safe",
+        "icon": "icon_safe",
+        "alternative_icon": "$icon.safe"
+    },
+    {
+        "name": "Safe",
+        "sector": null,
+        "location": {
+            "lat": "2143.541", "lng":"4420.352"
+        },
+        "description": "Potential spawn location of the safe",
+        "icon": "icon_safe",
+        "alternative_icon": "$icon.safe"
+    },
+    {
+        "name": "Safe",
+        "sector": null,
+        "location": {
+            "lat": "3888.380", "lng":"2822.770"
+        },
+        "description": "Potential spawn location of the safe",
+        "icon": "icon_safe",
+        "alternative_icon": "$icon.safe"
+    },
+    {
+        "name": "Safe",
+        "sector": null,
+        "location": {
+            "lat": "3753.759", "lng":"3129.569"
+        },
+        "description": "Potential spawn location of the safe",
+        "icon": "icon_safe",
+        "alternative_icon": "$icon.safe"
+    }
+]

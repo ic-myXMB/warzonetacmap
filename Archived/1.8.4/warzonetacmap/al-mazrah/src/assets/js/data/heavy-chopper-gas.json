@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Heavy Chopper Fuel",
+        "description": "The confirmed location where a Heavy Chopper fuel canister may appear. Of course, another place for a fuel canister is a freight train, which can be found on the map.",
+		"styles": {
+            "color": "#abdb39",
+            "weight": 2,
+            "fillColor": "#abdb39",
+            "dashArray": [5, 5]
+		},
+        "lines": [
+            [2012.785, 5513.992],
+            [2042.288, 5587.156],
+            [1987.091, 5610.199],
+            [1960.297, 5536.246]
+        ]
+    },
+    {
+        "name": "Heavy Chopper Fuel",
+        "description": "The confirmed location where a Heavy Chopper fuel canister may appear. Of course, another place for a fuel canister is a freight train, which can be found on the map.",
+		"styles": {
+            "color": "#abdb39",
+            "weight": 2,
+            "fillColor": "#abdb39",
+            "dashArray": [5, 5]
+		},
+        "lines": [
+            [3378.746, 1689.489],
+            [3385.277, 1707.450],
+            [3395.074, 1704.651],
+            [3442.658, 1844.606],
+            [3386.677, 1865.833],
+
+            [3389.341, 1873.956],
+            [3361.332, 1882.112],
+            [3358.408, 1876.418],
+            [3347.789, 1880.727],
+            [3343.634, 1871.340],
+            [3301.314, 1887.190],
+            [3296.081, 1875.341],
+            [3280.230, 1881.496],
+            [3270.381, 1853.334],
+            [3286.694, 1847.178],
+            [3283.924, 1838.406],
+            [3366.564, 1808.705],
+
+            [3339.558, 1724.711],
+            [3349.588, 1720.746],
+            [3342.357, 1701.852]
+        ]
+    },
+    {
+        "name": "Heavy Chopper Fuel",
+        "description": "The confirmed location where a Heavy Chopper fuel canister may appear. Of course, another place for a fuel canister is a freight train, which can be found on the map.",
+		"styles": {
+            "color": "#abdb39",
+            "weight": 2,
+            "fillColor": "#abdb39",
+            "dashArray": [5, 5]
+		},
+        "lines": [
+            [5255.977, 2618.343],
+            [5269.374, 2660.678],
+            [5299.920, 2651.568],
+            [5310.638, 2694.438],
+            [5280.628, 2702.477],
+            [5282.771, 2712.659],
+            [5208.283, 2732.486],
+            [5181.489, 2639.778]
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+		"name": "Player Spawn",
+        "sector": "D2",
+		"location": {
+            "lat": "5808.417", "lng": "2446.504"
+        },
+		"description": null,
+		"icon": "icon_spawn",
+		"alternative_icon": "$icon.spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "G3",
+		"location": {
+            "lat": "5236.149", "lng": "4806.904"
+        },
+		"description": null,
+		"icon": "icon_spawn",
+		"alternative_icon": "$icon.spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "I4",
+		"location": {
+            "lat": "4299.252", "lng": "6708.393"
+        },
+		"description": null,
+		"icon": "icon_spawn",
+		"alternative_icon": "$icon.spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "H6",
+		"location": {
+            "lat": "2251.260", "lng": "5848.668"
+        },
+		"description": null,
+		"icon": "icon_spawn",
+		"alternative_icon": "$icon.spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "E8",
+		"location": {
+            "lat": "1224.760", "lng": "3939.718"
+        },
+		"description": null,
+		"icon": "icon_spawn",
+		"alternative_icon": "$icon.spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "D5",
+		"location": {
+            "lat": "3667.579", "lng": "2486.912"
+        },
+		"description": null,
+		"icon": "icon_spawn",
+		"alternative_icon": "$icon.spawn"
+	},
+    {
+		"name": "Player Spawn",
+        "sector": "D5",
+		"location": {
+            "lat": "5416.099", "lng":"3608.837"
+        },
+		"description": null,
+		"icon": "icon_spawn",
+		"alternative_icon": "$icon.spawn"
+	}
+]

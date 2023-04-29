@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Hospital",
+        "location" : {
+            "lat": "5141.292",
+            "lng": "2294.853"
+        },
+        "sector": "",
+        "description": null,
+        "icon": "icon_hospital"
+    }
+]
