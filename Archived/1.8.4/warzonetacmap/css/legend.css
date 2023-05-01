@@ -1,39 +1,138 @@
+/* Leaflet Control Zoom */
+
+.leaflet-control-zoom {
+  top: 14vh;
+}
+
+/* Leaflet Control Zoom In */
+a.leaflet-control-zoom-in {
+  background: unset;
+  background: #0F0F0F;
+  color: #fff;
+}
+
+/* Leaflet Control Zoom In Hover */
+a.leaflet-control-zoom-in:hover {
+  background: unset;
+  background: #ffcc00;
+  color: #333;
+}
+
+/* Leaflet Control Zoom In Focus */
+a.leaflet-control-zoom-in:focus {
+  color: #fff;
+  background: #1C441D;
+}
+
+/* Leaflet Control Zoom Out */
+a.leaflet-control-zoom-out {
+  background: unset;
+  background: #0F0F0F;
+  color: #fff;
+}
+
+/* Leaflet Control Zoom Out Hover */
+a.leaflet-control-zoom-out:hover {
+  background: unset;
+  background: #ffcc00;
+  color: #333;
+}
+
+/* Leaflet Control Zoom Out Focus */
+a.leaflet-control-zoom-out:focus {
+  color: #333;
+  background: #FF5440;  
+}
+
 /* Legend */
 
+ /* DIV Legend */
 .legend {
-  padding: 6px 8px;
-  font: 14px Arial, Helvetica, sans-serif;
-  background: white;
-  background: rgba(31, 31, 31, 0.8);
+  padding: 6.69px 9px 5.69px 9px;
+  font: 9.8px Arial, Helvetica, sans-serif;
+  background-color: rgba(8,8,10);
+  /* background-color: #08080A; */
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
   line-height: 2.4;
   color: #FFFFFF;
-  font-size: 70%;
-  height: 20%;
-  width: 80%;
+  font-size: 69.96%;
   top: 60px; 
+  overflow: hidden;
 }
 
+/* DIV Legend h4 */
 .legend h4 {
   text-align: center;
-  font-size: 16px;
-  margin: 2px 12px 8px;
+  font-size: 12px;
+  margin: 2px 2px 2px 2px;
   color: #FFCC00;
 }
 
+/* DIV Legend span */
 .legend span {
   position: relative;
   bottom: 3px;
 }
 
+/* DIV Legend i */
 .legend i {
-  width: 18px;
-  height: 18px;
+  width: 14px;
+  height: 14px;
   float: left;
-  margin: 0 8px 0 0;
+  margin: 0 6px 0 0;
 }
 
+/* DIV Legend i icon */
 .legend i.icon {
-  background-size: 18px;
+  background-size: 14px;
+}
+
+/* DIV Legend Scollbar Stuff */
+
+/* DIV Legend legend-content */
+.legend-content {
+  overflow: auto;
+  scroll-behavior: auto;
+  text-align: justify;
+  -webkit-overflow-scrolling: auto;
+}
+
+/* DIV Legend # legend legend-content */
+div#legend.legend.legend-content {
+  scrollbar-color: #1f1f26 #08080a;
+  scrollbar-width: auto;
+  border-bottom: #08080a 26px solid;
+}
+
+/* DIV Legend # legend legend-content Scrollbar */
+div#legend.legend.legend-content::-webkit-scrollbar {
+  width: 25px !important;
+  background-color: #08080a !important;
+}
+
+/* DIV Legend # legend legend-content Scrollbar Track */
+div#legend.legend.legend-content::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3) !important;
+  /*-webkit-border-radius: 2px !important;
+  border-radius: 2px !important;*/
+  background-color: #08080a !important;
+}
+
+/*  DIV Legend # legend legend-content Scrollbar Handle (Thumb) */
+div#legend.legend.legend-content::-webkit-scrollbar-thumb {
+  /*-webkit-border-radius: 2px !important;
+  border-radius: 2px !important;*/
+  background-color: #ffcc00 !important; 
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5) !important; 
+}
+
+/* DIV Legend # legend legend-content Scrollbar Thumb Window Inactive*/
+div#legend.legend.legend-content::-webkit-scrollbar-thumb:window-inactive {
+  background-color: #08080a !important;
+}
+
+/* DIV Legend # legend legend-content Scrollbar  Overflow Scrolling */
+div#legend.legend.legend-content::-webkit-overflow-scrolling { 
+  overflow: auto; 
 }

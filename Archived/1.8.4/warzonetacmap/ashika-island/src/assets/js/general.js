@@ -119,7 +119,12 @@ async function main() {
 
 	legend.onAdd = function(map) {
 	  var div = L.DomUtil.create("div", "legend");
-	  //div.innerHTML += "<h4>Legend</h4>";
+
+      div.setAttribute('id', 'legend');
+      div.setAttribute('class', 'legend legend-content');
+      div.setAttribute('style', 'height: 180px; width: 114px;');
+
+	  div.innerHTML += "<h4>Legend</h4>";
 	  div.innerHTML += '<i class="icon" style="background-image: url(../images/icons/icon-trophyhunt.svg);background-repeat: no-repeat;"></i><span>Trophy Station</span><br>';	  
 	  div.innerHTML += '<i class="icon" style="background-image: url(../images/icons/icon-key.svg);background-repeat: no-repeat;"></i><span>Key</span><br>';	  
 	  div.innerHTML += '<i class="icon" style="background-image: url(../images/icons/icon-dot-yellow.svg);background-repeat: no-repeat;"></i><span>Hidden Cache</span><br>';
@@ -135,12 +140,13 @@ async function main() {
 	  div.innerHTML += '<i class="icon" style="background-image: url(../images/icons/icon-easter-egg.svg);background-repeat: no-repeat;"></i><span>Easter Egg</span><br>';
 	  div.innerHTML += '<i class="icon" style="background-image: url(../images/icons/icon-radio.svg);background-repeat: no-repeat;"></i><span>Mystery Radio</span><br>';
 	  div.innerHTML += '<i class="icon" style="background-image: url(../images/icons/icon-mask.svg);background-repeat: no-repeat;"></i><span>Mystery Item</span><br>';
-
+	  
 	  return div;
+
 	};
 
-	legend.addTo(map);	
-
+	legend.addTo(map);
+	
 	//////////////////////////////////////////////////////////////////////
 	function addEasterEggtoMap(pointsArray, globalLayer) {
 		pointsArray.forEach(easterEggArray => {
@@ -416,7 +422,7 @@ async function main() {
 	// 	zoomOutTitle: 'Zoom out',
 	// 	position: "bottomright", zoomDelta: 0.5
 	// }).addTo(map);
-	L.control.zoom({ position: "bottomleft" }).addTo(map);
+	L.control.zoom({ position: "topright" }).addTo(map);
 
 	document.addEventListener("keydown", (e) => {
 		if (e.ctrlKey || e.altKey) {
