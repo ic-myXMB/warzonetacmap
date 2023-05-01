@@ -1,7 +1,7 @@
 const mapName 	= 'ashika-island';
 const $icon		= [];
 const isDebug 	= window.location.href.indexOf("?debug") != -1 ? true : false;
-const mapPath = window.location.origin + "/warzonetacmap" + "/ashika-island";
+const mapPath = window.location.origin + "/warzonetacmap/" + "ashika-island";
 
 let $markers;
 
@@ -783,7 +783,7 @@ async function main() {
 
 	// Add an image layer to the map
 	L.imageOverlay(
-		`${mapPath}/src/assets/images/map/ashika-island-4000.webp`,
+		`${mapPath}/src/assets/images/map/ashika-island-4000.jpg`,
 		bounds
 	).addTo(map);
 	// L.imageOverlay("../images/overview-with-text.jpg", bounds).addTo(map);
