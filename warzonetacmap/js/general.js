@@ -127,7 +127,12 @@ async function main() {
 
 	legend.onAdd = function(map) {
 	  var div = L.DomUtil.create("div", "legend");
-	  //div.innerHTML += "<h4>Legend</h4>";
+
+      div.setAttribute('id', 'legend');
+      div.setAttribute('class', 'legend legend-content');
+      div.setAttribute('style', 'height: 180px; width: 114px;');
+
+	  div.innerHTML += "<h4>Legend</h4>";
 	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-trophyhunt.svg);background-repeat: no-repeat;"></i><span>Trophy Station</span><br>';	  
 	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-key.svg);background-repeat: no-repeat;"></i><span>Key</span><br>';
 	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-deaddrop_1.svg);background-repeat: no-repeat;"></i><span>Dead Drop</span><br>';
@@ -147,6 +152,7 @@ async function main() {
 	  div.innerHTML += '<i class="icon" style="background-image: url(images/icons/icon-gas-station.svg);background-repeat: no-repeat;"></i><span>Gas Station</span><br>';
 
 	  return div;
+	  
 	};
 
 	legend.addTo(map);	
@@ -518,7 +524,7 @@ async function main() {
 	// 	zoomOutTitle: 'Zoom out',
 	// 	position: "bottomright", zoomDelta: 0.5
 	// }).addTo(map);
-	L.control.zoom({ position: "bottomleft" }).addTo(map);
+	L.control.zoom({ position: "topright" }).addTo(map);
 
 	document.addEventListener("keydown", (e) => {
 		if (e.ctrlKey || e.altKey) {
